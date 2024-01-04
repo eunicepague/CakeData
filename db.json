@@ -9,7 +9,7 @@
       "cook": "13 minutes",
       "total": "18 minutes",
       "serving": "48 cookies",
-      "category": "Cookies",
+      "category": ["Cookies", "Chocolates"],
       "description": "Nutella Chocolate Chip Cookies make the perfect cookies with a glass of milk or cup of coffee. Get this simple, yet delicious Nutella Chocolate Chip Cookies recipe.",
       "ingredient": [
         "1 cup butter, softened",
@@ -75,7 +75,7 @@
       "chilling": "20 minutes",
       "total": "40 minutes",
       "serving": "36 cookies",
-      "category": "Cookies",
+      "category": ["Cookies", "Chocolates"],
       "description": "This is the best Chocolate Chip Cookie recipe I've ever tasted – Crisp outside, yet chewy and soft inside and full of chocolate! Simple ingredients – but something special that elevates them to the most amazing chocolate chip cookies every time!",
       "equipment": [
         "Mixing Bowl",
@@ -160,7 +160,7 @@
       "cook": "12 minutes",
       "total": "27 minutes",
       "serving": "24 cookies",
-      "category": "Cookies",
+      "category": ["Cookies", "Chocolates"],
       "description": "These Triple Chocolate Cookies are a chocolate lovers delight! Filled with three kinds of chocolate, these soft, chewy cookies are a must-make family favorite recipe!",
       "ingredient": [
         "11.5 ounces chocolate chips",
@@ -496,7 +496,7 @@
       "cook": "30 minutes",
       "total": "45 minutes",
       "serving": "24",
-      "category": "Cakes",
+      "category": ["Cakes", "Chocolates"],
       "description": "The Best Chocolate Cake Recipe – A one bowl chocolate cake recipe that is quick, easy, and delicious! Updated with gluten-free, dairy-free, and egg-free options!",
       "equipment": ["2 Cake Pans (9-inch)", "Mixing Bowl", "Whisk (Balloon)"],
       "ingredient": [
@@ -1076,7 +1076,7 @@
       "cook": "15 minutes",
       "total": "25 minutes",
       "serving": "36",
-      "category": ["desserts", "chocolates", "cupcakes"],
+      "category": ["Desserts", "Chocolates", "Cupcakes"],
       "description": "Double chocolate cupcakes make for a delicious sweet treat! Rich chocolate cupcakes topped with white chocolate buttercream and salted caramel are a favorite!",
       "ingredient": [
         "1 chocolate cake recipe",
@@ -1132,7 +1132,7 @@
       "cook": "30 minutes",
       "total": "40 minutes",
       "serving": "16",
-      "category": ["desserts", "chocolates"],
+      "category": ["Desserts", "Chocolates"],
       "description": "The best brownie recipe ever! These easy homemade brownies are made from scratch, featuring the perfect blend of chewy and fudgy brownies with a shiny, crackly top. A chocolate lover's ultimate brownie!",
       "equipment": [
         "Mixing Bowl",
@@ -1205,7 +1205,7 @@
       "prep": "1 hour",
       "total": "1 hour",
       "serving": "24",
-      "category": "Desserts",
+      "category": ["Desserts", "Chocolates"],
       "description": "These No Bake Oreo Truffles use just four ingredients and come together in a snap! Perfect to make throughout the year, but especially during the holidays!",
       "ingredient": [
         "36 or (14.3-ounce) package chocolate sandwich cookies",
@@ -1899,7 +1899,7 @@
       "cook": "35 minutes",
       "total": "40 minutes",
       "serving": "12",
-      "category": "Cobblers",
+      "category": ["Cobblers", "Chocolates"],
       "description": "Chocolate Cobbler is a classic Southern dessert recipe. With a delicious brownie-like topping and a rich fudge sauce on the bottom, this Chocolate Cobbler is like a lava cake but so much easier to make. Great for reunions, potlucks, and more!",
       "ingredient": [
         "1/2 cup butter",
