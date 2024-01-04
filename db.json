@@ -2243,16 +2243,44 @@
 
   "categories": [
     {
-      "type": [
-        "Cookies",
-        "Cakes",
-        "Frostings",
-        "Pies",
-        "Desserts",
-        "Chocolates",
-        "Cobblers",
-        "Ice Cream"
-      ]
+      "id": "1",
+      "type": "Cookies",
+      "image": "https://cdn.loveandlemons.com/wp-content/uploads/2020/12/cookie-recipes.jpg"
+    },
+    {
+      "id": "2",
+      "type": "Cakes",
+      "images": "https://stylesweet.com/wp-content/uploads/2022/06/StrawberryChiffon_Featured.jpg"
+    },
+    {
+      "id": "3",
+      "type": "Frostings",
+      "images": "https://confessionsofabakingqueen.com/wp-content/uploads/2021/05/american-frosting-in-a-glass-bowl-on-top-of-a-blue-and-white-linen-1-of-1-1024x1536-1.jpg"
+    },
+    {
+      "id": "4",
+      "type": "Pies",
+      "images": "https://sallysbakingaddiction.com/wp-content/uploads/2022/11/4-unique-beautiful-pie-crust-designs.jpg"
+    },
+    {
+      "id": "5",
+      "type": "Desserts",
+      "images": "https://cdn.loveandlemons.com/wp-content/uploads/2021/06/summer-desserts.jpg"
+    },
+    {
+      "id": "6",
+      "type": "Chocolates",
+      "images": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2018/7/30/0/FN_CHOCOLATE-CARAMEL-DOMES-OVERHEAD-SOLO-H_s4x3.jpg.rend.hgtvcom.1280.1024.suffix/1532976493939.jpeg"
+    },
+    {
+      "id": "7",
+      "type": "Cobblers",
+      "images": "https://www.allrecipes.com/thmb/AIoUf4lDFDiN2DSuWnbvaxWyrus=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/88354-easy-batter-fruit-cobbler-DDMFS-4x3-22c084fe06e14af9bc8f821a59a11150.jpg"
+    },
+    {
+      "id": "8",
+      "type": "Ice Cream",
+      "images": "https://www.iheartnaptime.net/wp-content/uploads/2021/05/IHeartNaptime-easy-homemade-ice-cream-8.jpg"
     }
   ]
 }
