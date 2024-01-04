@@ -2231,5 +2231,13 @@
         "https://www.chiselandfork.com/wp-content/uploads/2018/09/smores-ice-cream-3.jpg"
       ]
     }
+  ],
+
+  "chefs": [
+    {
+      "id": "1",
+      "name": "Killah Sese",
+      "description": "Killah Sese is a cookbook author, wife, mom, and passionate home cook. Her tested and trusted recipes give readers the confidence to cook recipes the whole family will love. Robyn has been featured on Food Network, People, Southern Living, and more."
+    }
   ]
 }
