@@ -1,0 +1,2270 @@
+{
+  "recipes": [
+    // ---------COOKIES---------
+    // 1
+    {
+      "id": "1",
+      "title": "Nutella Chocolate Chip Cookies Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "5 minutes",
+      "cook": "13 minutes",
+      "total": "18 minutes",
+      "serving": "48 cookies",
+      "category": "Cookies",
+      "description": "Nutella Chocolate Chip Cookies make the perfect cookies with a glass of milk or cup of coffee. Get this simple, yet delicious Nutella Chocolate Chip Cookies recipe.",
+      "ingredient": [
+        "1 cup butter, softened",
+        "2 cups Nutella",
+        "1 cup brown sugar, packed",
+        "1 cup granulated sugar",
+        "1 teaspoon vanilla extract",
+        "2 eggs",
+        "2 1/2 cups all-purpose flour",
+        "1 tablespoon unsweetened cocoa powder",
+        "1/2 teaspoon espresso powder",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon sea salt",
+        "1 cup chocolate chips"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat oven to 350º F."
+        },
+        {
+          "Step 2": "Cream together butter, Nutella, brown sugar and granulated sugar. Add in vanilla and eggs. Reduce the speed of the mixer and add in flour, cocoa powder, espresso powder, baking soda, baking powder, and salt. Scrape down the sides of the mixer to make sure all ingredients are well-incorporated. Stir in chocolate chips."
+        },
+        {
+          "Step 3": "Drop 1 tablespoon of cookie dough onto baking sheets and bake for 13-15 minutes. Remove from oven and allow to cool."
+        }
+      ],
+      "nutrition": {
+        "calories": "161kcal",
+        "carbohydrates": "21g",
+        "protein": "2g",
+        "fat": "8g",
+        "saturatedfat": "6g",
+        "polyunsaturatedfat": "1g",
+        "monounsaturatedfat": "1g",
+        "transfat": "1g",
+        "cholesterol": "18mg",
+        "sodium": "90mg",
+        "potassium": "73mg",
+        "fiber": "1g",
+        "sugar": "15g",
+        "vitamina": "142IU",
+        "vitaminc": "1mg",
+        "calcium": "27mg",
+        "iron": "1mg"
+      },
+
+      "image": [
+        "https://cookiesandcups.com/wp-content/uploads/2019/07/nutellastuffedcookies-4.jpg",
+        "https://inkristaskitchen.com/wp-content/uploads/2022/04/nutella-stuffed-chocolate-chip-cookie-comp-19.jpg",
+        "https://sugargeekshow.com/wp-content/uploads/2021/10/nutella_stuffed_cookies_FEATURED.jpg",
+        "https://www.thecookierookie.com/wp-content/uploads/2021/10/featured-nutella-stuffed-cookies-recipe.jpg"
+      ]
+    },
+    // 2
+    {
+      "id": "2",
+      "title": "Best Chocolate Chip Cookies Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "10 minutes",
+      "cook": "10 minutes",
+      "chilling": "20 minutes",
+      "total": "40 minutes",
+      "serving": "36 cookies",
+      "category": "Cookies",
+      "description": "This is the best Chocolate Chip Cookie recipe I've ever tasted – Crisp outside, yet chewy and soft inside and full of chocolate! Simple ingredients – but something special that elevates them to the most amazing chocolate chip cookies every time!",
+      "equipment": [
+        "Mixing Bowl",
+        "Hand Mixer",
+        "Cookie Scoop (Medium) large preferred",
+        "Baking Sheet",
+        "Parchment Paper"
+      ],
+      "ingredient": [
+        "1 cup (226 g) butter, softened to room temperature",
+        "1 cup (213 g) brown sugar, packed",
+        "1 cup (198 g) sugar, granulated",
+        "2 large (100 g) eggs, room temperature",
+        "1 tablespoon (14 g) vanilla extract",
+        "3 cups (360 g) all-purpose flour",
+        "2 teaspoons (6.6 g) cornstarch",
+        "3/4 teaspoon (2.1 g) kosher salt",
+        "1 teaspoon (6 g) baking soda",
+        "2 cups (340 g) chocolate chips, semi-sweet, dark, or milk chocolate or 2 (1.45 ounce) chocolate bars broken into chunks"
+      ],
+      "instruction": [
+        {
+          "Prep.": "Preheat oven to 350º F. Line a baking sheet with parchment paper and set aside."
+        },
+        {
+          "Whisk dry ingredients.": "In a medium bowl, whisk together the flour, cornstarch, salt, and baking soda, until well combined. Set aside. "
+        },
+        {
+          "Mix wet ingredients.": "In a separate large bowl, using a stand mixer or hand mixer on medium speed, cream together the softened butter and the sugars until light and fluffy, about 3 minutes. Scrape down the sides of the bowl as necessary to make sure that the butter and sugar are well combined. Add the eggs and vanilla extract to the creamed butter and sugar mixture. Mix until well combined, about 1 minute."
+        },
+        {
+          "Mix wet and dry.": "Add the dry ingredients to the wet ingredients and beat on a low speed until smooth and creamy."
+        },
+        {
+          "Add the chocolate chips.": "Fold in the chocolate chips with a rubber spatula or wooden spoon."
+        },
+        {
+          "Chill.": "Cover the mixing bowl and chill the cookie dough for 20 minutes up to 4 days."
+        },
+        {
+          "Bake.": "Scoop the cookie dough onto the prepared baking sheet with a large cookie scoop, spacing the cookie dough about 4 inches apart to allow room for the cookies to lightly spread as they bake. Bake for 12 – 14 minutes, until the edges are slightly crispy, the cookie is overall lightly golden brown, and the center is set but not overcooked. Allow them to cool slightly on the baking sheet, then transfer them to a wire rack to cool completely."
+        },
+        {
+          "Serve and / or Store.": "Serve the cookies while they are warm and gooey or store for late enjoyment. To store, transfer them to an airtight container and store on the counter for 3 days or in the freezer (in a freezer-safe container) for up to 3 months. To thaw, remove from the freezer and allow to thaw on the counter."
+        }
+      ],
+      "nutrition": {
+        "serving": "1cookie",
+        "calories": "179kcal",
+        "carbohydrates": "24g",
+        "protein": "2g",
+        "fat": "8g",
+        "saturatedfat": "5g",
+        "polyunsaturatedfat": "0.4g",
+        "monounsaturatedfat": "2g",
+        "transfat": "0.2g",
+        "cholesterol": "25mg",
+        "sodium": "132mg",
+        "potassium": "44mg",
+        "fiber": "1g",
+        "sugar": "15g",
+        "vitamina": "195IU",
+        "vitaminc": "0.1mg",
+        "calcium": "25mg",
+        "iron": "1mg"
+      },
+
+      "image": [
+        "https://therecipecritic.com/wp-content/uploads/2023/06/the_best_chocolate_chip_cookies_ever-1.jpg",
+        "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chocolate-chunk-cookies_0-6f27241.jpg?quality=90&resize=440,400",
+        "https://www.modernhoney.com/wp-content/uploads/2019/12/One-Bowl-Chocolate-Chip-Cookie-Recipe-5-scaled.jpg",
+        "https://natashaskitchen.com/wp-content/uploads/2020/05/Chocolate-Chip-Cookies-Recipe.jpg"
+      ]
+    },
+    // 3
+    {
+      "id": "3",
+      "title": "Triple Chocolate Cookies Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "15 minutes",
+      "cook": "12 minutes",
+      "total": "27 minutes",
+      "serving": "24 cookies",
+      "category": "Cookies",
+      "description": "These Triple Chocolate Cookies are a chocolate lovers delight! Filled with three kinds of chocolate, these soft, chewy cookies are a must-make family favorite recipe!",
+      "ingredient": [
+        "11.5 ounces chocolate chips",
+        "2 tablespoons butter",
+        "1/2 cup all-purpose flour",
+        "1/4 teaspoon baking powder",
+        "1/4 teaspoon kosher salt",
+        "3 tablespoons unsweetened cocoa powder",
+        "1 cup granulated sugar",
+        "1/4 cup (4 tablespoons ) butter, , softened",
+        "3 eggs",
+        "2 teaspoons vanilla extract",
+        "1 cup milk chocolate chips"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat oven to 350º F. Line rimmed baking sheets with parchment paper or silicon baking mats."
+        },
+        {
+          "Step 2": "Add semisweet chocolate chips and 2 tablespoons butter to saucepan over medium-low heat. Melt the chocolate and the butter together, stirring frequently until smooth and completely melted. Remove from heat and allow to cool completely, about 8-10 minutes."
+        },
+        {
+          "Step 3": "Whisk together flour, baking powder, salt and cocoa powder in a large bowl. Set aside."
+        },
+        {
+          "Step 4": "Fit stand mixer with paddle attachment. Add granulated sugar and butter to the bowl of the mixer and beat together until light and fluffy, about 3 minutes. Add in eggs, one at a time, creaming together after each addition. Add in vanilla, making sure it is well combined."
+        },
+        {
+          "Step 5": "Once all eggs and vanilla have been combined. Turn mixer speed up to medium high speed and beat until pale, light, and fluffy, about 7-10 minutes. Turn down speed of mixer and slowly stir in cooled and melted chocolate. Stir dry mixture until combined, then stir in milk chocolate chips."
+        },
+        {
+          "Step 6": "Drop tablespoon scoops of cookie dough batter onto lined baking sheets, leaving about 3 inches between cookies to allow them to spread."
+        },
+        {
+          "Step 7": "Place in preheated oven and bake 12-15 minutes. Remove from the oven and allow to cool completely before removing from the baking sheet. The cookies are fragile while warm, so allow to cool completely before moving."
+        }
+      ],
+      "nutrition": {
+        "calories": "184kcal",
+        "carbohydrates": "25g",
+        "protein": "2g",
+        "fat": "9g",
+        "saturatedfat": "5g",
+        "polyunsaturatedfat": "1g",
+        "monounsaturatedfat": "1g",
+        "transfat": "1g",
+        "cholesterol": "31mg",
+        "sodium": "73mg",
+        "potassium": "26mg",
+        "fiber": "1g",
+        "sugar": "22g",
+        "vitamina": "168IU",
+        "vitaminc": "1mg",
+        "calcium": "32mg",
+        "iron": "1mg"
+      },
+
+      "image": [
+        "https://www.iheartnaptime.net/wp-content/uploads/2020/01/triple-chocolate-chip-cookies.jpg",
+        "https://www.janespatisserie.com/wp-content/uploads/2015/03/IMG_2594_1-scaled.jpg",
+        "https://live.staticflickr.com/65535/48993897996_6d6199c799_o.jpg",
+        "https://foodtasia.com/wp-content/uploads/2016/12/triple-chocolate-cookie-12.jpg"
+      ]
+    },
+    // 4
+    {
+      "id": "4",
+      "title": "Funfetti Cookies Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "5 minutes",
+      "cook": "10 minutes",
+      "total": "15 minutes",
+      "serving": "36 cookies",
+      "category": "Cookies",
+      "description": "Funfetti Cookies are the perfect cookie recipe for celebrations and fun! So simple to make, funfetti cookies always bring a smile!",
+      "ingredient": [
+        "1 cup butter, , softened to room temperature",
+        "1 1/2 cups granulated sugar",
+        "1 egg",
+        "2 1/4 cups all-purpose flour",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon kosher salt",
+        "1 teaspoon vanilla extract",
+        "1/2 cup sprinkles"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat oven to 350º F. Line cookie sheets with parchment paper or a nonstick baking mat."
+        },
+        {
+          "Step 2": "Cream together butter and granulated sugar until light and fluffy, about 3 minutes. Add egg and mix until well-combined."
+        },
+        {
+          "Step 3": "Stir in flour, baking powder, salt, vanilla, and sprinkles, making sure all is well combined."
+        },
+        {
+          "Step 4": "Scoop cookie dough by the tablespoon full and place cookie dough onto baking sheet, spacing about 1 1/2-inches to 2 inches apart. Bake for 10 – 12 minutes or until lightly browned."
+        }
+      ],
+      "nutrition": {
+        "calories": "117kcal",
+        "carbohydrates": "16g",
+        "protein": "1g",
+        "fat": "5g",
+        "saturatedfat": "3g",
+        "polyunsaturatedfat": "0.2g",
+        "monounsaturatedfat": "1g",
+        "transfat": "0.2g",
+        "cholesterol": "18mg",
+        "sodium": "75mg",
+        "potassium": "18mg",
+        "fiber": "0.2g",
+        "sugar": "10g",
+        "vitamina": "164IU",
+        "calcium": "6mg",
+        "iron": "0.4mg"
+      },
+
+      "image": [
+        "https://www.sweetestmenu.com/wp-content/uploads/2018/07/funfetticookies28aaa.jpg",
+        "https://i3.wp.com/lmld.org/wp-content/uploads/2021/08/Giant-Funfetti-Chocolate-Chip-Cookies-11.jpg",
+        "https://www.sweetestmenu.com/wp-content/uploads/2022/06/funfetticookies2a.jpg",
+        "https://www.sweetestmenu.com/wp-content/uploads/2022/06/funfetticookies35aa.jpg"
+      ]
+    },
+    // 5
+    {
+      "id": "5",
+      "title": "Oatmeal Lace Cookies Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "5 minutes",
+      "cook": "5 minutes",
+      "total": "10 minutes",
+      "serving": "60 cookies",
+      "category": "Cookies",
+      "description": "Oatmeal Lace Cookies are thin, crisp, delicate and buttery cookies. This lace cookies recipe is a family favorite.",
+      "ingredient": [
+        "1 cup butter",
+        "2 1/4 cups light brown sugar, packed",
+        "2 1/4 cups rolled oats",
+        "3 tablespoons all-purpose flour",
+        "1 teaspoon kosher salt",
+        "1 large egg, lightly beaten",
+        "1 teaspoon vanilla extract"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat oven to 375º F. Line baking sheets with parchment paper or silicon baking mats. Set aside."
+        },
+        {
+          "Step 2": "Heat butter and brown sugar in a 2-quart saucepan over medium heat, stirring frequently with a wooden or silicon spoon, until butter has melted and mixture is smooth. Stir in oats, flour, salt, egg, and vanilla."
+        },
+        {
+          "Step 3": "Drop cookie batter by the teaspoon onto prepared baking sheets, leaving at least 2 inches between each cookie to allow them to spread."
+        },
+        {
+          "Step 4": "Bake for 5 -7 minutes, watching closely to prevent them from over-baking. The lace cookies should be golden brown."
+        },
+        {
+          "Step 5": "Allow to cool on the cookie sheet for 30 seconds and remove onto racks to cool completely."
+        },
+        {
+          "Step 6": "Store in an airtight container."
+        }
+      ],
+      "nutrition": {
+        "calories": "73kcal",
+        "carbohydrates": "10g",
+        "protein": "1g",
+        "fat": "3g",
+        "saturatedfat": "2g",
+        "cholesterol": "11mg",
+        "sodium": "69mg",
+        "potassium": "24mg",
+        "fiber": "1g",
+        "sugar": "8g",
+        "vitamina": "99IU",
+        "calcium": "10mg",
+        "iron": "1mg"
+      },
+
+      "image": [
+        "https://www.simplyrecipes.com/thmb/8ZqOS4wFxChZ-Ws8zYKHT6QQ0-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2016__08__Oatmeal-Lace-Cookies-horiz-b-ed4d457ea6f6493d968487d451874526.jpg",
+        "https://www.beyondthechickencoop.com/wp-content/uploads/2022/12/Oatmeal-Lace-Cookies.jpg",
+        "https://i.pinimg.com/originals/df/ce/82/dfce82713f5de7b32eae79b752b0a04b.jpg",
+        "https://stressbaking.com/wp-content/uploads/2018/07/oatmeal-lace-cookies-1-10.jpg"
+      ]
+    },
+    // ---------CAKES---------
+    // 6
+    {
+      "id": "6",
+      "title": "Red Velvet Cake Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Moderate",
+      "prep": "20 minutes",
+      "cook": "30 minutes",
+      "total": "50 minutes",
+      "serving": "24",
+      "category": "Cakes",
+      "description": "The BEST Red Velvet Cake recipe makes a signature red layer cake with rich buttery, vanilla, and a bit of cocoa flavor, along with the tang of buttermilk, all topped with creamy Heritage or cream cheese frosting. It is a delicious, classic cake that is easy to make and tender with a perfect velvet crumb.",
+      "equipment": ["3 Cake Pans (9-inch)"],
+      "ingredient": [
+        "½ cup shortening",
+        "1 ½ cups sugar",
+        "2 large eggs, room temperature",
+        "2 ounces red food coloring",
+        "2 tablespoons unsweetened cocoa powder",
+        "2 ¼ cups flour, all-purpose or cake flour",
+        "1 scant teaspoon kosher salt",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon baking soda",
+        "1 cup buttermilk",
+        "1 tablespoon distilled white vinegar"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat oven to 350º F. Prepare three (8-inch) cake pans with nonstick baking spray or by thoroughly greasing and flouring. Set aside."
+        },
+        {
+          "Step 2": "Cream vegetable shortening and sugar together until light and fluffy, about three minutes. Add eggs one at a time, completely incorporating after each addition."
+        },
+        {
+          "Step 3": "Make a paste of food coloring and cocoa powder and add to the mixture. "
+        },
+        {
+          "Step 4": "Sift together flour and salt in a separate medium bowl, set aside. Pour buttermilk and vanilla into a measuring cup, set aside. "
+        },
+        {
+          "Step 5": "Alternately, mix flour mixture and buttermilk mixture into shortening/sugar mixture, beginning and ending with flour. Scrape down sides of mixing bowl to ensure all ingredients are well incorporated."
+        },
+        {
+          "Step 6": "Reduce speed of mixer and stir in baking soda, making sure incorporated into batter. Then, stir in the vinegar, taking care not to beat hard or over mix."
+        },
+        {
+          "Step 7": "Evenly distribute into cake pans and bake 25-30 minutes, until toothpick inserted in the center comes out clean."
+        },
+        {
+          "Step 8": "Cool cake thoroughly before frosting."
+        }
+      ],
+      "nutrition": {
+        "calories": "142kcal",
+        "carbohydrates": "22g",
+        "protein": "2g",
+        "fat": "5g",
+        "saturatedfat": "1g",
+        "polyunsaturatedfat": "1g",
+        "monounsaturatedfat": "2g",
+        "transfat": "1g",
+        "cholesterol": "15mg",
+        "sodium": "78mg",
+        "potassium": "38mg",
+        "fiber": "1g",
+        "sugar": "13g",
+        "vitamina": "36IU",
+        "calcium": "16mg",
+        "iron": "1mg"
+      },
+
+      "image": [
+        "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2004/1/23/1/ss1d26_red_velvet_cake.jpg.rend.hgtvcom.1280.1280.suffix/1371584132020.jpeg",
+        "https://handletheheat.com/wp-content/uploads/2013/04/red-velvet-cake-recipe-SQUARE.jpg",
+        "https://www.cookingclassy.com/wp-content/uploads/2014/11/red-velvet-cake-5.jpg",
+        "https://bakingamoment.com/wp-content/uploads/2018/05/IMG_7709-red-velvet-layer-cake-square.jpg"
+      ]
+    },
+    // 7
+    {
+      "id": "7",
+      "title": "Cream Cheese Pound Cake",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "10 minutes",
+      "cook": "1 hour 30 minutes",
+      "total": "1 hour 40 minutes",
+      "serving": "16",
+      "category": "Cakes",
+      "description": "The Cream Cheese Pound Cake recipe is a delicious family favorite pound cake loved for generations. Simple to make with only seven ingredients, this is the best cream cheese pound cake and makes a perfect dessert!",
+      "ingredient": [
+        "1 1/2 cups salted butter, room temperature",
+        "8 ounces cream cheese, room temperature",
+        "3 cups granulated sugar",
+        "6 eggs, room temperature",
+        "3 cups all-purpose flour",
+        "1 teaspoon kosher salt",
+        "1 tablespoon vanilla extract"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat oven to 325º F. Spray a 12-cup Bundt or tube pan well with baking spray or grease with softened butter and dust with flour, making sure to coat well to prevent any sticking."
+        },
+        {
+          "Step 2": "In a stand mixer fitted with the paddle attachment (or using a hand mixer), beat the butter, cream cheese, and sugar until fluffy, about 3 minutes. Add the eggs one at a time, beating after each addition until well combined. Add the flour, salt, and vanilla and beat until well blended but do not over mix. Pour into the prepared pan."
+        },
+        {
+          "Step 3": "Bake until the top is golden brown, the cake springs back when lightly pressed, and a wooden toothpick inserted into the center comes out clean, about 1 1/2 hours. Let cool in pan for 10 minutes on a wire rack, and then turn the cake out onto the rack to cool completely. "
+        }
+      ],
+      "Nutrition": {
+        "calories": "458kcal",
+        "carbohydrates": "56g",
+        "protein": "6g",
+        "fat": "24g",
+        "saturatedfat": "14g",
+        "polyunsaturatedfat": "1g",
+        "monounsaturatedfat": "6g",
+        "transfat": "1g",
+        "cholesterol": "121mg",
+        "sodium": "351mg",
+        "potassium": "74mg",
+        "fiber": "1g",
+        "sugar": "38g",
+        "vitamina": "811IU",
+        "calcium": "32mg",
+        "iron": "1mg"
+      },
+
+      "image": [
+        "https://addapinch.com/wp-content/uploads/2011/11/cream-cheese-pound-cake-recipe-181-536x536.jpg",
+        "https://static01.nyt.com/images/2022/12/28/multimedia/21RISOTTOREX2-cream-cheese-pound-cake-1-53a0/22RISOTTOREX2-cream-cheese-pound-cake-1-53a0-threeByTwoMediumAt2X.jpg",
+        "https://foodfolksandfun.net/wp-content/uploads/2017/05/Pound-Cake-Strawberry-Topping.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5ff8b89f92e37d4757633b70/1621604122540-BHWG0SRW608K7DOOHWNB/Strawberries+and+Cream+Pound+Cake+%7C+The+Old+Mill+%7C+Pigeon+Forge%2C+TN"
+      ]
+    },
+    // 8
+    {
+      "id": "8",
+      "title": "The Best Chocolate Cake Recipe {Ever}",
+      "chef": "Killah Sese",
+      "difficulty": "Moderate",
+      "prep": "15 minutes",
+      "cook": "30 minutes",
+      "total": "45 minutes",
+      "serving": "24",
+      "category": "Cakes",
+      "description": "The Best Chocolate Cake Recipe – A one bowl chocolate cake recipe that is quick, easy, and delicious! Updated with gluten-free, dairy-free, and egg-free options!",
+      "equipment": ["2 Cake Pans (9-inch)", "Mixing Bowl", "Whisk (Balloon)"],
+      "ingredient": [
+        "2 cups (240 g) all-purpose flour",
+        "2 cups (396 g) sugar",
+        "3/4 cup (63 g) unsweetened cocoa powder",
+        "2 teaspoons (8 g) baking powder",
+        "1 1/2 teaspoons (9 g) baking soda",
+        "1 teaspoon (2.8 g) kosher salt",
+        "1 teaspoon (2.3 g) espresso powder, homemade or store-bought",
+        "1 cup (227 g) milk, or buttermilk, almond, or coconut milk",
+        "1/2 cup (99 g) vegetable oil, or canola oil, or melted coconut oil",
+        "2 large (100 g) eggs",
+        "2 teaspoons (9.4 g) vanilla extract",
+        "1 cup (227. g) boiling water",
+        "Chocolate Buttercream Frosting Recipe"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat oven to 350º F. Prepare two 9-inch cake pans by spraying with baking spray or buttering and lightly flouring."
+        },
+        {
+          "Step 2": "Add flour, sugar, cocoa, baking powder, baking soda, salt and espresso powder to a large bowl or the bowl of a stand mixer. Whisk through to combine or, using your paddle attachment, stir through flour mixture until combined well."
+        },
+        {
+          "Step 3": "Add milk, vegetable oil, eggs, and vanilla to flour mixture and mix together on medium speed until well combined. Reduce speed and carefully add boiling water to the cake batter until well combined."
+        },
+        {
+          "Step 4": "Distribute cake batter evenly between the two prepared cake pans. Bake for 30-35 minutes, until a toothpick or cake tester inserted in the center of the chocolate cake comes out clean."
+        },
+        {
+          "Step 5": "Remove from the oven and allow to cool for about 10 minutes, remove from the pan and cool completely"
+        },
+        {
+          "Step 6": "Frost the cake with Chocolate Buttercream Frosting."
+        }
+      ],
+      "nutrition": {
+        "calories": "124kcal",
+        "carbohydrates": "27g",
+        "protein": "3g",
+        "fat": "1g",
+        "saturatedfat": "1g",
+        "cholesterol": "15mg",
+        "sodium": "178mg",
+        "potassium": "114mg",
+        "fiber": "1g",
+        "sugar": "17g",
+        "vitamina": "229IU",
+        "vitaminc": "1mg",
+        "calcium": "34mg",
+        "iron": "1mg"
+      },
+
+      "image": [
+        "hhttps://www.browneyedbaker.com/wp-content/uploads/2021/05/chocolate-cake-15-square.jpg",
+        "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/109778.jpg?output-format=auto&output-quality=auto&resize=600:*",
+        "https://www.tasteofhome.com/wp-content/uploads/2018/01/Best-Chocolate-Cake_exps47786._THCA1917912C10_02_1bC_RMS-4.jpg?fit=700%2C1024",
+        "https://www.texanerin.com/content/uploads/2022/01/gluten-free-chocolate-cake-image-650x975.jpeg"
+      ]
+    },
+    // 9
+    {
+      "id": "9",
+      "title": "Lemon Curd Cake with Lemon Cream Cheese Frosting",
+      "chef": "Killah Sese",
+      "difficulty": "Moderate",
+      "prep": "15 minutes",
+      "cook": "25 minutes",
+      "total": "40 minutes",
+      "serving": "24",
+      "category": "Cakes",
+      "description": "A mouth-watering cake with a touch of lemon, filled with lemon curd, and topped with lemon cream cheese frosting.",
+      "ingredient": [
+        "1 cup butter, softened",
+        "2 cups sugar",
+        "4 eggs",
+        "3 cups all-purpose flour",
+        "3 teaspoons baking powder",
+        "1 1/4 cups buttermilk",
+        "1 lemon",
+        "2 cups lemon curd",
+        "cream cheese frosting"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Butter and flour two 9″ round cake pans. Preheat oven to 350º."
+        },
+        {
+          "Step 2": "Cream butter until fluffy."
+        },
+        {
+          "Step 3": "Add sugar and cream until light and fluffy."
+        },
+        {
+          "Step 4": "Add eggs one at a time, mixing well after each."
+        },
+        {
+          "Step 5": "Add flour and baking powder alternately with buttermilk, beginning and ending with buttermilk."
+        },
+        {
+          "Step 6": "Add zest and juice of 1 lemon to batter and combine well."
+        },
+        {
+          "Step 7": "Pour into pans and bake until golden brown, about 25 to 30 minutes. You can follow my tips for how to tell when your cake is done."
+        },
+        {
+          "Step 8": "Remove from oven and place on cooling racks until fully cooled."
+        },
+        {
+          "Step 9": "Spread 3/4 of lemon curd between two layers of cake."
+        },
+        {
+          "Step 10": "Mix remaining lemon curd into cream cheese frosting.and decorate cake."
+        }
+      ],
+      "nutrition": {
+        "calories": "358kcal",
+        "carbohydrates": "53g",
+        "protein": "5g",
+        "fat": "16g",
+        "saturatedfat": "9g",
+        "polyunsaturatedfat": "1g",
+        "monounsaturatedfat": "3g",
+        "transfat": "0.4g",
+        "cholesterol": "106mg",
+        "sodium": "136mg",
+        "potassium": "105mg",
+        "fiber": "0.5g",
+        "sugar": "41g",
+        "vitamina": "297IU",
+        "calcium": "50mg",
+        "iron": "2mg"
+      },
+
+      "image": [
+        "https://richanddelish.com/wp-content/uploads/2022/07/Cake-with-lemon-curd-recipe.jpg",
+        "https://sugarspunrun.com/wp-content/uploads/2022/02/Lemon-Cake-Recipe-17-of-19.jpg",
+        "https://thesoccermomblog.com/wp-content/uploads/2017/07/Lemon-Layer-Cake-1.jpg",
+        "https://www.dessertfortwo.com/wp-content/uploads/2011/03/lemon-layer-cake-10.jpg"
+      ]
+    },
+    // 10
+    {
+      "id": "10",
+      "title": "Mississippi Mud Cake Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Challenge",
+      "prep": "40 minutes",
+      "cook": "1 hour 10 minutes",
+      "total": "40 minutes",
+      "serving": "24",
+      "category": "Cakes",
+      "description": "Mississippi Mud Cake Recipe – Mississippi mud cake is a simple, yet scrumptious chocolate dessert with marshmallows, pecans and a rich chocolate icing. Perfect to make ahead and great for chocolate lovers!",
+      "ingredient": [
+        "2 cups sugar",
+        "1/3 cup unsweetened cocoa powder",
+        "1/2 teaspoon kosher salt",
+        "2 cups all-purpose flour",
+        "1 cup butter, , melted and cooled",
+        "3 large eggs",
+        "1 1/2 teaspoons vanilla extract",
+        "2 cups roasted pecans, chopped",
+        "1 (10.5-ounce) bag miniature marshmallows",
+        "For the Chocolate Icing(ff): 1/2 cup butter",
+        "2 tablespoons unsweetened cocoa powder",
+        "3 cups confectioners sugar",
+        "1/4 cup whole milk",
+        "1 teaspoon vanilla extract"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat oven to 350º F."
+        },
+        {
+          "Step 2": "Whisk together the sugar, cocoa powder, salt, and flour in a medium bowl. In a 2-cup measuring cup, whisk together the melted and cooled butter, eggs, and the vanilla extract until well combined. Pour the egg mixture into the sugar and flour mixture and stir until well combined. Stir in 1 cup of the toasted pecans. Pour the mixture into the prepared 9×13 baking dish and bake until a toothpick inserted in the center comes out clean, about 30 to 40 minutes. You can follow my tips for how to tell when your cake is done."
+        },
+        {
+          "Step 3": "Remove from the oven and top with the mini marshmallows."
+        },
+        {
+          "Chocolate Icing": "For the Chocolate Icing"
+        },
+        {
+          "Step 4": "During the last 10 minutes baking time for the cake, prepare the chocolate icing by melting the butter and cocoa in a large saucepan over medium heat. Add confectioners sugar and milk and bring to a full boil. Remove the pan from the heat and stir in the vanilla until well combined."
+        },
+        {
+          "Step 5": "Pour the chocolate icing over the warm, marshmallow topped cake, making sure to cover to the edges of the pan. Top with the remaining pecans."
+        },
+        {
+          "Step 6": "Let cool, cut into pieces and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": "338kcal",
+        "carbohydrates": "42g",
+        "protein": "3g",
+        "fat": "19g",
+        "saturatedfat": "8g",
+        "polyunsaturatedfat": "2g",
+        "monounsaturatedfat": "7g",
+        "transfat": "1g",
+        "cholesterol": "55mg",
+        "sodium": "164mg",
+        "potassium": "86mg",
+        "fiber": "2g",
+        "sugar": "32g",
+        "vitamina": "407IU",
+        "vitaminc": "1mg",
+        "calcium": "20mg",
+        "iron": "1mg"
+      },
+
+      "image": [
+        "https://preppykitchen.com/wp-content/uploads/2023/01/Mississippi-Mud-Cake-Blog2-1140x1330.jpg",
+        "https://www.southernliving.com/thmb/4u2MG9oJuYhy6d_7Gq_rPZM0sr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mississippi-mud-cake-sl-1646476-xl-8b81947349c842bfa93943d6d0ade203.jpg",
+        "https://tastesbetterfromscratch.com/wp-content/uploads/2021/02/Mississippi-Mud-Cake-1.jpg",
+        "https://i1.wp.com/funmoneymom.com/wp-content/uploads/2021/09/IMG_1166-1.jpg"
+      ]
+    },
+    // ---------FROSTING---------
+    // 11
+    {
+      "id": "11",
+      "title": "Perfect Chocolate Buttercream Frosting Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "15 minutes",
+      "total": "15 minutes",
+      "serving": "36 (2 tablespoons) servings",
+      "category": "Frostings",
+      "description": "Perfect Chocolate Buttercream Frosting is an essential when it comes to birthday cakes and other celebrations. Get this family favorite, perfect chocolate buttercream frosting recipe.",
+      "ingredient": [
+        "1½ cups (339 g) butter, softened",
+        "1 cup (84 g) unsweetened cocoa powder",
+        "5 cups (567.5 g) confectioner’s sugar",
+        "½ cup (113.5 g) milk, whole",
+        "2 teaspoons (9.4 g) vanilla extract",
+        "½ teaspoon (1.2 g) espresso powder"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Add cocoa powder to a large bowl or bowl of stand mixer. Whisk through to remove any lumps."
+        },
+        {
+          "Step 2": "Cream together butter and cocoa powder until well-combined."
+        },
+        {
+          "Step 3": "Add confectioner's sugar to a large bowl. Whisk through to remove any lumps. Alternatively, you may sift the confectioner's sugar into the large bowl. Add the confectioner's sugar and milk to the cocoa mixture by adding 1 cup of confectioner's sugar followed by about a tablespoon of milk. After each addition has been combined, turn the mixer onto a high speed for about a minute. Repeat until all sugar and milk have been added."
+        },
+        {
+          "Step 4": "Add vanilla extract and espresso powder and combine well."
+        },
+        {
+          "Step 5": "If frosting appears too dry, add more milk, a tablespoon at a time until it reaches the right consistency. If it appears to wet and does not hold its form, add more confectioner’s sugar, a tablespoon at a time until it reaches the right consistency."
+        }
+      ],
+      "nutrition": {
+        "serving": "2 tablespoons",
+        "calories": "141kcal",
+        "carbohydrates": "18g",
+        "protein": "1g",
+        "fat": "8g",
+        "saturatedfat": "5g",
+        "polyunsaturatedfat": "0.3g",
+        "monounsaturatedfat": "2g",
+        "transfat": "0.3g",
+        "cholesterol": "21mg",
+        "sodium": "63mg",
+        "potassium": "45mg",
+        "fiber": "1g",
+        "sugar": "17g",
+        "vitamina": "242IU",
+        "calcium": "10mg",
+        "iron": "0.3mg"
+      },
+
+      "image": [
+        "https://handletheheat.com/wp-content/uploads/2020/02/chocolate-buttercream-frosting-SQUARE-550x550.jpg",
+        "https://sallysbakingaddiction.com/wp-content/uploads/2017/06/chocolate-buttercream-recipe-3.jpg",
+        "https://www.chef-in-training.com/blog/wp-content/uploads/2015/10/Perfect-Chocolate-Buttercream-1.jpg",
+        "https://www.simplyrecipes.com/thmb/DJjBVuCRa3WzGE2DKjRr-IV3SxQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Chocolate-Buttercream-LEAD-08-3e271a161729440ea65947b92b42abbe.jpg"
+      ]
+    },
+    // 12
+    {
+      "id": "12",
+      "title": "Classic Vanilla Buttercream Frosting Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "10 minutes",
+      "total": "10 minutes",
+      "serving": "24 (2 tablespoons) servings",
+      "category": "Frostings",
+      "description": "Vanilla Buttercream Frosting is one of the classic frosting recipes used on so many delicious desserts! Get this favorite vanilla buttercream frosting recipe along with all the tips for making perfect buttercream frosting every time.",
+      "ingredient": [
+        "1 cup butter, softened",
+        "3 – 4 cups confectioner’s sugar, sifted",
+        "2 teaspoons vanilla extract",
+        "pinch kosher salt",
+        "2-3 tablespoons milk, heavy cream, or half-and-half"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Place softened butter into the bowl of a stand mixer that has been fitted with the paddle attachment. Turn the mixer on a medium setting and cream the butter until it is smooth and has lightened in color, about 3 minutes."
+        },
+        {
+          "Step 2": "Add confectioner’s sugar, 1/2 a cup at a time. After each cup has been incorporated, turn the mixer onto the highest speed setting and for about 10 seconds to lighten the frosting."
+        },
+        {
+          "Step 3": "Add vanilla and a pinch of salt and combine until well-incorporated."
+        },
+        {
+          "Step 4": "Add milk, heavy cream or half-and-half until the frosting has reached the preferred consistency. For a firmer frosting, add more confectioner’s sugar, a 1/4 cup at a time. For a softer frosting, add more milk or cream, a tablespoon at a time."
+        }
+      ],
+      "nutrition": {
+        "serving": "2 tablespoons",
+        "calories": "128kcal",
+        "carbohydrates": "15g",
+        "protein": "0.1g",
+        "fat": "8g",
+        "saturatedfat": "5g",
+        "polyunsaturatedfat": "0.3g",
+        "monounsaturatedfat": "2g",
+        "transfat": "0.3g",
+        "cholesterol": "20mg",
+        "sodium": "62mg",
+        "potassium": "5mg",
+        "sugar": "15g",
+        "vitamina": "238IU",
+        "calcium": "4mg",
+        "iron": "0.01mg"
+      },
+
+      "image": [
+        "https://jessicainthekitchen.com/wp-content/uploads/2021/03/Vegan-Vanilla-Cake-8.jpg",
+        "https://www.foodnetwork.com/content/dam/images/food/fullset/2004/6/25/1/sd1e26_quick_vanilla_buttercr.jpg",
+        "https://www.theflavorbender.com/wp-content/uploads/2018/03/Vanilla-Buttercream-Frosting-The-Flavor-Bender-Featured-Image-SQ-6.jpg",
+        "https://www.dessertnowdinnerlater.com/wp-content/uploads/2020/01/Vanilla-Buttercream-Frosting-1-720x720.jpg"
+      ]
+    },
+    // 13
+    {
+      "id": "13",
+      "title": "Strawberry Buttercream Frosting Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "10 minutes",
+      "total": "10 minutes",
+      "serving": "16 (2 tablespoons) servings",
+      "category": "Frostings",
+      "description": "This homemade Strawberry Buttercream Frosting is loaded with fresh strawberries and is creamy and delicious for topping cakes, cupcakes, and more! Just six real ingredients, and easy to make!",
+      "ingredient": [
+        "1 cup unsalted butter, softened",
+        "3 1/2 – 4 cups confectioner’s sugar, sifted",
+        "4 tablespoons strawberry syrup",
+        "1 tablespoon vanilla extract",
+        "2 tablespoons half-and-half, heavy cream or whole milk",
+        "pinch kosher salt"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Cream together butter and ½ cup of confectioner’s sugar at a time. After each cup of sugar has been added, add strawberry syrup 1 tablespoon at a time. Add vanilla and then beat on high for about 20 seconds to lighten the frosting."
+        },
+        {
+          "Step 2": "Add half-and-half, one tablespoon at a time until the buttercream has reached a consistency where it will hold it’s shape. Add pinch of salt and whip on high for a final 20 seconds."
+        },
+        {
+          "Step 3": "Use immediately or cover and refrigerate up to three days. To use once refrigerated, slowly allow to reach room temperature and then beat on low speed until the buttercream is smooth before using."
+        }
+      ],
+      "nutrition": {
+        "serving": "2 tablespoons",
+        "calories": "210kcal",
+        "carbohydrates": "27g",
+        "protein": "0.2g",
+        "fat": "12g",
+        "saturatedfat": "7g",
+        "polyunsaturatedfat": "0.4g",
+        "monounsaturatedfat": "3g",
+        "transfat": "0.5g",
+        "cholesterol": "31mg",
+        "sodium": "3mg",
+        "potassium": "13mg",
+        "fiber": "0.1g",
+        "sugar": "26g",
+        "vitamina": "362IU",
+        "vitaminc": "2mg",
+        "calcium": "6mg",
+        "iron": "0.04mg"
+      },
+
+      "image": [
+        "https://www.dessertfortwo.com/wp-content/uploads/2019/05/strawberry-cream-cheese-frosting.jpg",
+        "https://sallysbakingaddiction.com/wp-content/uploads/2017/02/creamy-strawberry-frosting-2.jpg",
+        "https://sallysbakingaddiction.com/wp-content/uploads/2023/03/real-strawberry-buttercream-frosting.jpg",
+        "https://simshomekitchen.com/wp-content/uploads/2023/05/philadelphia-strawberry-frosting-in-a-bowl-scaled.jpg"
+      ]
+    },
+    // 14
+    {
+      "id": "14",
+      "title": "Nutella Buttercream Frosting Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "10 minutes",
+      "total": "10 minutes",
+      "serving": "16 (2 tablespoons) servings",
+      "category": "Frostings",
+      "description": "Nutella Buttercream Frosting makes the perfect buttercream frosting for the Nutella lover. Get this simple Nutella Buttercream Frosting recipe to top your cakes, cupcakes, or cookies.",
+      "ingredient": [
+        "1 cup unsalted butter, softened",
+        "3½ – 4 cups confectioner’s sugar, sifted",
+        "1 tablespoon vanilla extract",
+        "2 tablespoons half-and-half, heavy cream or whole milk",
+        "pinch kosher salt"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Cream together butter and ½ cup of confectioner’s sugar at a time. After each cup of sugar has been added, add Nutella 1 tablespoon at a time, then add vanilla and then beat on high for about 20 seconds to lighten the frosting."
+        },
+        {
+          "Step 2": "Add half-and-half, one tablespoon at a time until the buttercream has reached a consistency where it will hold it’s shape. Add pinch of salt and whip on high for a final 20 seconds."
+        },
+        {
+          "Step 3": "Use immediately or cover and refrigerate up to three days. To use once refrigerated, slowly allow to reach room temperature and then beat on low speed until the buttercream is smooth before using."
+        }
+      ],
+      "nutrition": {
+        "serving": "2 tablespoons",
+        "calories": "259kcal",
+        "carbohydrates": "32g",
+        "protein": "1g",
+        "fat": "15g",
+        "saturatedfat": "10g",
+        "polyunsaturatedfat": "0.4g",
+        "monounsaturatedfat": "3g",
+        "transfat": "0.5g",
+        "cholesterol": "31mg",
+        "sodium": "7mg",
+        "potassium": "46mg",
+        "fiber": "1g",
+        "sugar": "31g",
+        "vitamina": "361IU",
+        "vitaminc": "0.02mg",
+        "calcium": "16mg",
+        "iron": "0.4mg"
+      },
+
+      "image": [
+        "https://handletheheat.com/wp-content/uploads/2020/02/chocolate-buttercream-frosting-SQUARE-550x550.jpg",
+        "https://www.amummytoo.co.uk/wp-content/uploads/2021/11/chocolate-raisin-muffins-step-11.jpg",
+        "https://www.tosimplyinspire.com/wp-content/uploads/2021/05/Chocolate-Buttercream-Frosting-1200.jpg",
+        "https://confessionsofabakingqueen.com/wp-content/uploads/2021/04/chocolate-american-buttercream-swirled-in-a-glass-bowl-1-of-1-1024x1536-1-768x768.jpg"
+      ]
+    },
+    // ---------CHOCOLATE DESSERTS---------
+    // 15
+    {
+      "id": "15",
+      "title": "Chocolate Covered Strawberries Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Moderate",
+      "prep": "5 minutes",
+      "cook": "2 minutes",
+      "total": "7 minutes",
+      "serving": "8",
+      "category": "Desserts",
+      "description": "An easy step-by-step guide for how to make Chocolate Covered Strawberries. Ready in less than 30 minutes! An easy chocolate covered strawberries recipe you can make at home!",
+      "ingredient": [
+        "1 pint fresh strawberries",
+        "1 (10-ounce) package Chocolate Chips, semi-sweet, milk, or white chocolate (use a high-quality chip)",
+        "1 teaspoon coconut oil, optional"
+      ],
+      "instruction": [
+        {
+          "Prep.": "Line a rimmed baking sheet with parchment paper, top with a wire rack and set aside. Line another baking sheet with parchment paper to use for cooling the dipped strawberries. If using any optional toppings, place those onto individual small plates."
+        },
+        {
+          "Wash and Dry Strawberries.": "Wash strawberries and then pat dry with paper towels and arrange on the wire rack to completely air dry to make sure chocolate adheres perfectly."
+        },
+        {
+          "Melt Chocolate.": "Add chocolate to medium microwave-safe bowl. Heat at 50% power in 30-second intervals, stirring after each interval. Repeat until the chocolate is all melted and smooth. Repeat with additional types of chocolate if making different types – white, dark chocolate, milk, etc."
+        },
+        {
+          "Dip Strawberries.": "Hold each strawberry by the stem and dip into the melted chocolate. Lift the strawberry out of the chocolate and slightly twist to allow any additional chocolate to run off back into the bowl of chocolate. If you are adding any optional toppings, dip the chocolate covered strawberry into the topping and then place onto the parchment-lined baking sheet to cool and for the chocolate to harden."
+        },
+        {
+          "Serve or store.": "Serve once the chocolate has hardened or store in the refrigerator. Best enjoyed within 48 hours."
+        }
+      ],
+      "nutrition": {
+        "calories": "149kcal",
+        "carbohydrates": "17g",
+        "protein": "2g",
+        "fat": "8g",
+        "saturatedfat": "7g",
+        "sodium": "24mg",
+        "potassium": "232mg",
+        "fiber": "2g",
+        "sugar": "10g",
+        "vitamina": "5IU",
+        "vitaminc": "34.9mg",
+        "calcium": "78mg",
+        "iron": "0.5mg"
+      },
+
+      "image": [
+        "https://www.cookingclassy.com/wp-content/uploads/2020/01/chocolate-covered-strawberries-15.jpg",
+        "https://hips.hearstapps.com/del.h-cdn.co/assets/18/06/1600x1600/square-1518114769-delish-chocolate-covered-strawberries.jpg?resize=1200:*",
+        "https://www.smalltownwoman.com/wp-content/uploads/2021/01/Chocolate-Covered-Strawberries-DSC_0018-Recipe-Card.jpg",
+        "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/01/14/0/FNK_CHOCOLATE_COVERED_STRAWBERRIES_H.jpg.rend.hgtvcom.1280.720.suffix/1579042627182.jpeg"
+      ]
+    },
+    // 16
+    {
+      "id": "16",
+      "title": "S’mores Bars Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "10 minutes",
+      "cook": "30 minutes",
+      "total": "40 minutes",
+      "serving": "24",
+      "category": "Desserts",
+      "description": "S'mores Bars are easy, delicious dessert bars made with graham crackers, melty chocolate and toasty marshmallows with a delectable blondie crust!",
+      "equipment": ["Baking Dish (9×13)", "Hand Mixer or stand mixer"],
+      "ingredient": [
+        "12 tablespoons butter, softened",
+        "1/2 cup peanut butter",
+        "1 1/2 cups dark brown sugar",
+        "1/2 cup granulated sugar",
+        "2 large eggs",
+        "2 teaspoons vanilla extract",
+        "2 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1 teaspoon kosher salt",
+        "3 XL-sized chocolate bars, unwrapped",
+        "17 – 20 graham crackers",
+        "1 (10-ounce) package miniature marshmallows"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat oven to 350ºF."
+        },
+        {
+          "Step 2": "Line a 9×13 baking dish with parchment paper that has been lightly sprayed with nonstick baking spray or has been buttered."
+        },
+        {
+          "Step 3": "Cream together the softened butter, peanut butter, and sugars with an electric mixer until well combined and fluffy. Add eggs one at a time, beating well after each egg, followed by the vanilla extract. Stir in the flour, baking powder and salt until well combined. Press half of the blondie batter into the pan."
+        },
+        {
+          "Step 4": "Arrange the following on top of the blondie batter in layers. Graham crackers, topped with the chocolate bars, a single layer of the miniature marshmallows, and finally topped with the remaining blondie batter. Bake for 30 minutes and then remove from the oven to cool."
+        }
+      ],
+      "nutrition": {
+        "serving": "1piece",
+        "calories": "199kcal",
+        "carbohydrates": "27g",
+        "protein": "3g",
+        "fat": "9g",
+        "saturatedfat": "4g",
+        "cholesterol": "33mg",
+        "sodium": "185mg",
+        "potassium": "89mg",
+        "fiber": "1g",
+        "sugar": "18g",
+        "vitamina": "200IU",
+        "calcium": "27mg",
+        "iron": "1mg"
+      },
+
+      "image": [
+        "https://res.cloudinary.com/hksqkdlah/image/upload/SFS_SmoresBars-53_ayn9r6.jpg",
+        "https://www.adashofmegnut.com/wp-content/uploads/2020/09/Gluten-Free-Smores-Bars21.jpg",
+        "https://sallysbakingaddiction.com/wp-content/uploads/2013/06/smores-cookie-bars-2-1.jpg",
+        "https://dinnerthendessert.com/wp-content/uploads/2019/12/Smores-Bars.jpg"
+      ]
+    },
+    // 17
+    {
+      "id": "17",
+      "title": "Double Chocolate Cupcakes Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "10 minutes",
+      "cook": "15 minutes",
+      "total": "25 minutes",
+      "serving": "36",
+      "category": ["desserts", "chocolates", "cupcakes"],
+      "description": "Double chocolate cupcakes make for a delicious sweet treat! Rich chocolate cupcakes topped with white chocolate buttercream and salted caramel are a favorite!",
+      "ingredient": [
+        "1 chocolate cake recipe",
+        "1 white chocolate buttercream recipe",
+        "2 1/4 cups salted caramel sauce",
+        "1/2 cup chopped dark chocolate",
+        "1/2 cup toffee bits"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat oven to 325º F. Line muffin tins with cupcake liners and set aside. Mix cake batter together as instructed in recipe and divide equally into prepared muffin tins. Cupcake liners should be about 3/4ths full. Bake for 12 to 15 minutes, or until a toothpick inserted in the center comes out clean. Remove from oven and allow to cool completely."
+        },
+        {
+          "Step 2": "As cupcakes are cooling, prepare white chocolate buttercream frosting. Once cupcakes are cooled, frost cupcakes and then drizzle 1 tablespoon of salted caramel sauce over each cupcake. Sprinkle cupcakes with chopped dark chocolate and toffee bits."
+        },
+        {
+          "Step 3": "Store cupcakes in the refrigerator."
+        }
+      ],
+      "nutrition": {
+        "calories": "292kcal",
+        "carbohydrates": "45g",
+        "protein": "11g",
+        "fat": "15g",
+        "saturatedfat": "5g",
+        "polyunsaturatedfat": "0.3g",
+        "monounsaturatedfat": "2g",
+        "transfat": "0.02g",
+        "cholesterol": "28mg",
+        "sodium": "178mg",
+        "potassium": "165mg",
+        "fiber": "1g",
+        "sugar": "32g",
+        "vitamina": "39IU",
+        "vitaminc": "0.01mg",
+        "calcium": "40mg",
+        "iron": "1mg"
+      },
+
+      "image": [
+        "https://addapinch.com/wp-content/blogs.dir/3/files/2015/07/double-chocolate-cupcakes-recipe_DSC1874.jpg",
+        "https://www.justsotasty.com/wp-content/uploads/2015/09/Chocolate-Cupcakes-with-Cream-Cheese-Frosting.jpg",
+        "https://www.willcookforsmiles.com/wp-content/uploads/2015/10/Double-Chocolate-Cupcakes-with-White-Chocolate-Cream-Cheese-Frosting-5-from-willcookforsmiles.com_.jpg",
+        "https://www.browneyedbaker.com/wp-content/uploads/2016/01/mocha-cupcakes-1-1200.jpg"
+      ]
+    },
+    // 18
+    {
+      "id": "18",
+      "title": "The Best Brownies Recipe Ever",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "10 minutes",
+      "cook": "30 minutes",
+      "total": "40 minutes",
+      "serving": "16",
+      "category": ["desserts", "chocolates"],
+      "description": "The best brownie recipe ever! These easy homemade brownies are made from scratch, featuring the perfect blend of chewy and fudgy brownies with a shiny, crackly top. A chocolate lover's ultimate brownie!",
+      "equipment": [
+        "Mixing Bowl",
+        "Whisk (Balloon)",
+        "baking dish (9 x 9)",
+        "Parchment Paper"
+      ],
+      "ingredient": [
+        "1 cup butter",
+        "1 cup unsweetened cocoa powder",
+        "1 cup brown sugar",
+        "1 cup granulated sugar",
+        "4 large eggs",
+        "1 cup all-purpose flour",
+        "1/4 teaspoon espresso powder",
+        "1/2 teaspoon kosher salt",
+        "2 teaspoons vanilla extract",
+        "1 cup chocolate chips, optional",
+        "1 cup chopped pecans, optional"
+      ],
+      "instruction": [
+        {
+          "Prep.": "Preheat the oven to 350º F. Line a 9 x 9-inch baking pan with parchment paper to easily lift the brownies from the pan for final cooling and cutting. Set aside."
+        },
+        {
+          "Melt the butter, chocolate, and sugars.": "Melt the butter in a microwave-safe bowl. Add the cocoa powder and sugars and stir to combine and smooth."
+        },
+        {
+          "Make the brownie batter.": "Add the eggs, one at a time, stirring after each addition to fully combine into the melted chocolate mixture before adding the next. Continue to stir until smooth and glossy. Stir in the salt, espresso powder, flour, and vanilla extract. Stir until smooth and pour into the prepared baking dish."
+        },
+        {
+          "Bake.": "Bake until the brownies are set, the top is shiny and crackly, and a toothpick inserted into the center comes out with moist crumbs, about 25 to 30 minutes. Cool the brownies in the pan for 5 minutes on a wire rack. Lift the brownies out of the pan by the edges of the parchment paper and cool on the wire rack."
+        },
+        {
+          "Cut and serve.": "Cut the brownies into 2-inch squares or your preferred size pieces and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": "319kcal",
+        "carbohydrates": "43g",
+        "protein": "4g",
+        "fat": "16g",
+        "saturatedfat": "10g",
+        "polyunsaturatedfat": "1g",
+        "monounsaturatedfat": "4g",
+        "transfat": "0.5g",
+        "cholesterol": "79mg",
+        "sodium": "195mg",
+        "potassium": "131mg",
+        "fiber": "3g",
+        "sugar": "33g",
+        "vitamina": "447IU",
+        "vitaminc": "0.1mg",
+        "calcium": "43mg",
+        "iron": "2mg"
+      },
+
+      "image": [
+        "https://handletheheat.com/wp-content/uploads/2017/03/Chewy-Brownies-Square-1.jpg",
+        "https://thestayathomechef.com/wp-content/uploads/2022/01/Best-Brownies-Ever-5.jpg",
+        "https://thefoodcharlatan.com/wp-content/uploads/2013/01/Absolutely-The-Best-Brownie-Recipe-I-Have-Ever-Made-8-e1548826926204.jpg",
+        "https://thestayathomechef.com/wp-content/uploads/2021/03/Best-brownies-3-by-4.jpg"
+      ]
+    },
+    // 19
+    {
+      "id": "19",
+      "title": "No Bake Oreo Truffles Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "1 hour",
+      "total": "1 hour",
+      "serving": "24",
+      "category": "Desserts",
+      "description": "These No Bake Oreo Truffles use just four ingredients and come together in a snap! Perfect to make throughout the year, but especially during the holidays!",
+      "ingredient": [
+        "36 or (14.3-ounce) package chocolate sandwich cookies",
+        "1 (8-ounce) package Cream Cheese, , softened",
+        "2 cups chocolate chips, milk, semisweet, or dark",
+        "2 teaspoons coconut oil"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Line a baking sheet with parchment paper and set aside."
+        },
+        {
+          "Step 2": "Place Oreo cookies into a plastic zip top bag and crush using the back of a wooden spoon or a rolling pin until the Oreos are fine crumbs. Pour all but 1/2 cup of the crumbs into a medium bowl. Add the cream cheese and mix until well blended. Scoop mixture by the tablespoon and roll in between your palms to form into balls."
+        },
+        {
+          "Step 3": "Place the chocolate chip and coconut oil in a microwave safe bowl and microwave in 10 second increments until fully melted and smooth when stirred. Alternately, you can also melt together in a small saucepan over medium-low heat."
+        },
+        {
+          "Step 4": "Dip the balls in chocolate and place onto the parchment paper lined baking sheet. Sprinkle with reserved 1/2 cup cookie crumbs."
+        },
+        {
+          "Step 5": "Refrigerate until firm, about 1 hour. Store leftover truffles, covered, in refrigerator or place in an airtight container and freeze for up 3 months. To serve, allow to thaw in the refrigerator."
+        }
+      ],
+      "nutrition": {
+        "calories": "85kcal",
+        "carbohydrates": "11g",
+        "protein": "1g",
+        "fat": "4g",
+        "saturatedfat": "3g",
+        "polyunsaturatedfat": "1g",
+        "monounsaturatedfat": "1g",
+        "transfat": "1g",
+        "cholesterol": "2mg",
+        "sodium": "17mg",
+        "potassium": "3mg",
+        "fiber": "1g",
+        "sugar": "10g",
+        "vitamina": "34IU",
+        "vitaminc": "1mg",
+        "calcium": "18mg",
+        "iron": "1mg"
+      },
+
+      "image": [
+        "https://www.joyousapron.com/wp-content/uploads/2018/04/No-Bake-Oreo-Truffles-Sq-Pic.jpg",
+        "https://www.cookingclassy.com/wp-content/uploads/2018/12/oreo-balls-15-500x500.jpg",
+        "https://thecozycook.com/wp-content/uploads/2015/02/Oreo-Truffles-Recipe-f4.jpg",
+        "https://img.taste.com.au/FtzninIS/taste/2010/01/oreo-truffles-175216-2.jpg"
+      ]
+    },
+    // ---------PIES---------
+    //  20
+    {
+      "id": "20",
+      "title": "The Best Peach Pie Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Moderate",
+      "prep": "30 minutes",
+      "cook": "30 minutes",
+      "total": "1 hour",
+      "serving": "8",
+      "category": "Pies",
+      "description": "This is the BEST Peach Pie Recipe! Made with a lattice-topped double crust and filled with an easy and delicious homemade peach pie filling!",
+      "ingredient": [
+        "2 pie crust recipe",
+        "4 cups sliced peaches",
+        "1 cup sugar , + 2 tablespoons for topping",
+        "3 tablespoons all-purpose flour",
+        "2 tablespoons melted butter"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat oven to 425ºF."
+        },
+        {
+          "Step 2": "Prepare two pie crusts according to instructions in the recipe. Arrange one pie crust dough into a pie dish and freeze according to the instructions. Roll the second pie crust dough and cut into 1-inch thick strips, refrigerate until ready to top the peach pie."
+        },
+        {
+          "Step 3": "Place the peaches, sugar, and flour in a large saucepan set over low heat. Stir well and simmer over low heat until a thick syrup has formed, about 10 minutes. Remove from heat and set aside and allow to cool slightly."
+        },
+        {
+          "Step 4": "Remove pie plate from the freezer and the strips from the refrigerator. Pour peaches on top of the bottom dough. Arrange the strips on top of peaches in a lattice pattern. Brush with melted butter and sprinkle top of cobbler with 2 tablespoons sugar."
+        },
+        {
+          "Step 5": "Place the pie into the oven and bake until the crust has browned, about 30 minutes. Remove from the oven and allow to rest about 5 minutes before serving."
+        }
+      ],
+      "nutrition": {
+        "calories": "358kcal",
+        "carbohydrates": "55g",
+        "protein": "4g",
+        "fat": "14g",
+        "saturatedfat": "5g",
+        "polyunsaturatedfat": "2g",
+        "monounsaturatedfat": "6g",
+        "transfat": "0.1g",
+        "cholesterol": "8mg",
+        "sodium": "207mg",
+        "potassium": "140mg",
+        "fiber": "2g",
+        "sugar": "31g",
+        "vitamina": "339IU",
+        "vitaminc": "3mg",
+        "calcium": "13mg",
+        "iron": "2mg"
+      },
+      "image": [
+        "https://www.allthingsmamma.com/wp-content/uploads/2021/08/peach-pie-11.jpg",
+        "https://sallysbakingaddiction.com/wp-content/uploads/2018/07/peach-pie-with-lattice-top-2.jpg",
+        "https://addapinch.com/wp-content/uploads/2016/06/peach-pie-recipe-addapinch-1053.jpg",
+        "https://www.simplyrecipes.com/thmb/-nc7d4ROyAB_pjPO6_bpYsY4vqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2017__07__2017-07-25-Peach-Pie-14-e3e69eeafca14a7281bcdf77e721a64e.jpg"
+      ]
+    },
+    //  21
+    {
+      "id": "21",
+      "title": "Coconut Cream Pie Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Moderate",
+      "prep": "5 minutes",
+      "cook": "30 minutes",
+      "total": "35 minutes",
+      "serving": "8",
+      "category": "Pies",
+      "description": "Decadent Coconut Cream Pie with rich, creamy coconut custard topped with pillowy whipped cream and toasted coconut in a flaky homemade pie crust. Delicious dessert perfect for entertaining!",
+      "ingredient": [
+        "1 pie crust recipe",
+        "1/2 cup flaked, sweetened coconut, For the Toasted Coconut Topping",
+        "1 1/2 cups coconut milk, For the Coconut Custard",
+        "1 1/2 cups half-and-half, For the Coconut Custard",
+        "5 egg yolks, For the Coconut Custard",
+        "3/4 cup sugar, For the Coconut Custard",
+        "4 tablespoons cornstarch, For the Coconut Custard",
+        "1 tablespoon butter, For the Coconut Custard",
+        "1/4 teaspoon kosher salt, For the Coconut Custard",
+        "1 1/2 cups flaked, sweetened coconut, For the Coconut Custard",
+        "1/2 teaspoons vanilla extract, For the Coconut Custard",
+        "Whipped Cream, For the Coconut Custard"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Prepare pie crust according to blind-baking instructions of recipe."
+        },
+        {
+          "Step 2": "For the Toasted Coconut Topping, Spread coconut evenly on a rimmed baking sheet. Place into 350º F oven for 8-10 minutes until coconut has just begun to turn brown."
+        },
+        {
+          "Step 3": "Set aside to cool."
+        },
+        {
+          "Step 4": "For the Coconut Custard, Pour coconut milk and half-and-half into a liquid measuring cup. Add egg yolks and whisk together with milks. Set aside."
+        },
+        {
+          "Step 5": "Add sugar and cornstarch to a heavy-bottomed saucepan over medium-low heat. Whisk egg and milk mixture together once more and then slowly begin to add to the sugar and cornstarch, whisking together constantly."
+        },
+        {
+          "Step 6": "Bring custard mixture to a boil. Switch to a rubber spatula or wooden spoon and continue to stir constantly. Boil one minute."
+        },
+        {
+          "Step 7": "Remove from heat and add butter, coconut, vanilla and salt."
+        },
+        {
+          "Step 8": "Spread custard into pie crust. Cover lightly with plastic wrap and chill in the refrigerator until set, about 30-45 minutes."
+        },
+        {
+          "Step 9": "Spread whipped cream on top of coconut custard. Refrigerate until ready to serve."
+        },
+        {
+          "Step 10": "When ready to serve, top with toasted coconut."
+        }
+      ],
+      "nutrition": {
+        "serving": "1slice",
+        "calories": "518kcal",
+        "carbohydrates": "41g",
+        "protein": "6g",
+        "fat": "37g",
+        "saturatedfat": "27g",
+        "cholesterol": "142mg",
+        "sodium": "210mg",
+        "potassium": "300mg",
+        "fiber": "4g",
+        "sugar": "20g",
+        "vitamina": "365IU",
+        "vitaminc": "1.1mg",
+        "calcium": "79mg",
+        "iron": "3mg"
+      },
+      "image": [
+        "https://i2.wp.com/lifemadesimplebakes.com/wp-content/uploads/2019/04/Perfect-Coconut-Cream-Pie-7.jpg",
+        "https://www.browneyedbaker.com/wp-content/uploads/2021/01/Coconut-cream-pie-32-square.jpg",
+        "https://www.seriouseats.com/thmb/c6WBxzYa4t-yNeykif_KLSnhUsM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230406-SEA-CoconutCremePie-AmandaSuarez-heroFINAL-781f42cfa3cd48cea66a7c34c0bf4435.jpg",
+        "https://100krecipes.com/wp-content/uploads/2020/10/Grandmas-Coconut-Cream-Piefirst_image.jpg"
+      ]
+    },
+    //  22
+    {
+      "id": "22",
+      "title": "Best Pecan Pie Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Moderate",
+      "prep": "10 minutes",
+      "cook": "45 minutes",
+      "total": "55 minutes",
+      "serving": "8",
+      "category": "Pies",
+      "description": "This easy pecan pie recipe is a classic Southern dessert. Salty pecans caramelize in a sweet filling and flaky crust for the BEST pecan pie! It is a must for Thanksgiving and a favorite for Christmas and family suppers! Make ahead and freezer-friendly!",
+      "equipment": [
+        "Mixing Bowl",
+        "Rubber Scraper (Rubber Spatula)",
+        "Instant Read Thermometer optional"
+      ],
+      "ingredient": [
+        "½ cup granulated sugar",
+        "3 large eggs",
+        "1 cup light corn syrup or maple syrup",
+        "½ cup butter, melted",
+        "1 teaspoon vanilla extract",
+        "pinch kosher salt",
+        "1 cup pecan halves or pieces",
+        "1 unbaked pie crust"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat oven to 350º F."
+        },
+        {
+          "Step 2": "Add granulated sugar and eggs to a large bowl. Whisk together until well-combined. Add in syrup (corn or maple), melted butter, vanilla, and salt. Stir in pecan halves and pour into the unbaked pie crust."
+        },
+        {
+          "Step 3": "Place in oven and bake 45 minutes to 1 hour, depending on your oven. A piece of foil may be placed over the top for the last few minutes of baking to prevent the edges of the crust from becoming over-brown."
+        }
+      ],
+      "nutrition": {
+        "calories": "369kcal",
+        "carbohydrates": "41g",
+        "protein": "3g",
+        "fat": "22g",
+        "saturatedfat": "8g",
+        "cholesterol": "91mg",
+        "sodium": "129mg",
+        "potassium": "164mg",
+        "fiber": "1g",
+        "sugar": "37g",
+        "vitamina": "450IU",
+        "vitaminc": "0.2mg",
+        "calcium": "65mg",
+        "iron": "0.6mg"
+      },
+      "image": [
+        "https://carlsbadcravings.com/wp-content/uploads/2017/11/Pecan-Pie-9d.jpg",
+        "https://houseofnasheats.com/wp-content/uploads/2021/09/Pecan-Pie-11.jpg",
+        "https://handletheheat.com/wp-content/uploads/2019/11/pecan-pie-SQUARE.png",
+        "https://tastesbetterfromscratch.com/wp-content/uploads/2022/11/Pecan-Pie-Web-8.jpg"
+      ]
+    },
+    //  23
+    {
+      "id": "23",
+      "title": "Classic Pumpkin Pie Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Challenge",
+      "prep": "10 minutes",
+      "cook": "1 hour",
+      "total": "1 hour 10 minutes",
+      "serving": "6",
+      "category": "Pies",
+      "description": "This classic pumpkin pie recipe makes an old fashioned pie perfect for serving during the holidays or anytime! So easy and delicious, this is a family-favorite pie!",
+      "equipment": [
+        "Mixing Bowl",
+        "Hand Mixer",
+        "Whisk (Balloon)",
+        "Pie Plate 9-inch"
+      ],
+      "ingredient": [
+        "1 1/2 cups homemade pumpkin puree, or 15 ounce can pumpkin puree",
+        "3/4 cup brown sugar, packed",
+        "1/4 teaspoon kosher salt",
+        "1 1/2 teaspoons pumpkin pie spice",
+        "1/2 cup half-and-half",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1/4 cup butter, melted",
+        "1 unbaked pie crust recipe",
+        "whipped cream, optional"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat oven to 425º F."
+        },
+        {
+          "Step 2": "Mix pumpkin puree, sugar, salt, and spice in medium mixing bowl until well blended. "
+        },
+        {
+          "Step 3": "Pour half-and-half into separate bowl, add eggs and vanilla and whisk until well blended. Add to pumpkin mixture and mix until blended. Pour butter into pumpkin mixture and stir until combined."
+        },
+        {
+          "Step 4": "Pour pumpkin mixture into unbaked pie shell. Bake for 15 minutes, then reduce heat to 350º and bake for 30 minutes or until set in the center."
+        },
+        {
+          "Step 5": "Allow to cool. Top each slice with whipped cream just before serving, if using"
+        }
+      ],
+      "nutrition": {
+        "calories": "376kcal",
+        "carbohydrates": "47g",
+        "protein": "5g",
+        "fat": "19g",
+        "saturatedfat": "9g",
+        "cholesterol": "89mg",
+        "sodium": "323mg",
+        "potassium": "239mg",
+        "fiber": "2g",
+        "sugar": "28g",
+        "vitamina": "9930IU",
+        "vitaminc": "2.7mg",
+        "calcium": "80mg",
+        "iron": "2.2mg"
+      },
+      "image": [
+        "https://ca-times.brightspotcdn.com/dims4/default/bbcd84d/2147483647/strip/true/crop/6454x4034+0+135/resize/1200x750!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe3%2F49%2F2bd0a7f448438feacfba08628b37%2F1198545-la-fo-cooking-thanksgiving-2022-10.jpg",
+        "https://www.thespicehouse.com/cdn/shop/articles/Pumpkin_Pie_87694c8f-1d7f-4101-8e60-2899a25e9488_700x.png?v=1578934266",
+        "https://natashaskitchen.com/wp-content/uploads/2020/11/Pumpkin-Pie-Recipe-8-728x1092.jpg",
+        "https://sallysbakingaddiction.com/wp-content/uploads/2014/10/sallys-baking-addiction-pumpkin-pie-2.jpg"
+      ]
+    },
+    //  24
+    {
+      "id": "24",
+      "title": "Strawberry Pie Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "15 minutes",
+      "cook": "5 minutes",
+      "total": "20 minutes",
+      "serving": "10",
+      "category": "Pies",
+      "description": "Strawberry Pie is a classic pie recipe that is always a favorite. Made with fresh strawberries, this easy no-bake strawberry pie recipe is simple and oh so delicious!",
+      "ingredient": [
+        "2 quarts fresh strawberries",
+        "3/4 cup granulated sugar",
+        "2 tablespoons cornstarch",
+        "1 cup boiling water",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon lemon juice",
+        "1 (3-ounce) package strawberry flavored gelatin",
+        "1 shortbread pie crust, pre-baked"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Wash strawberries and pat dry with paper towels. Hull and slice in half. Set aside."
+        },
+        {
+          "Step 2": "Whisk together sugar and cornstarch in a small saucepan over medium heat. Add boiling water, whisking until it has thickened. Remove from heat and whisk in vanilla extract, lemon juice and strawberry gelatin. Allow to cool completely to room temperature."
+        },
+        {
+          "Step 3": "Place strawberries into pre-baked shortbread crust and arrange to the final result you would like for your strawberry pie. Pour the cooled filling over top of the strawberries, being sure to coat them completely. Refrigerate until the strawberry pie has completely set, about 1 1/2 – 2 hours."
+        }
+      ],
+      "nutrition": {
+        "calories": "403kcal",
+        "carbohydrates": "56g",
+        "protein": "4g",
+        "fat": "1g",
+        "saturated fat": "0.03g",
+        "polyunsaturatedfat": "0.3g",
+        "monounsaturatedfat": "5g",
+        "cholesterol": "49mg",
+        "sodium": "165mg",
+        "potassium": "323mg",
+        "fiber": "5g",
+        "sugar": "30g",
+        "vitamina": "23IU",
+        "vitaminc": "111mg",
+        "calcium": "40mg",
+        "iron": "2mg"
+      },
+      "image": [
+        "https://therecipecritic.com/wp-content/uploads/2023/06/strawberry-pie-4.jpg",
+
+        "https://www.tasteofhome.com/wp-content/uploads/2018/01/Easy-Fresh-Strawberry-Pie_EXPS_TOHJJ24_34179_DR_11_15_4b.jpg",
+
+        "https://www.wellplated.com/wp-content/uploads/2021/03/Straweberry-Pie-with-Cream-Cheese.jpg",
+
+        "https://hips.hearstapps.com/hmg-prod/images/strawberry-pie-recipe-1648660021.jpeg?crop=0.669xw:1.00xh;0.166xw,0&resize=1200:*"
+      ]
+    },
+    // ---------COBBLER---------
+    //  25
+    {
+      "id": "25",
+      "title": "Blueberry Cobbler Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "10 minutes",
+      "cook": "35 minutes",
+      "total": "45 minutes",
+      "serving": "8",
+      "category": "Cobblers",
+      "description": "Blueberry Cobbler is a delicious, easy dessert. Make with fresh or frozen blueberries and top with ice cream or whipped cream for a quick dessert anytime! The BEST blueberry cobbler recipe!",
+      "equipment": ["Baking Dish (9×13)", "Whisk (Balloon)", "Mixing Bowl"],
+      "ingredient": [
+        "1/2 cup butter",
+        "2 pints blueberries, fresh or frozen (about 4 cups)",
+        "1/2 cup sugar",
+        "1 cup flour, for Blueberry Cobbler Batter",
+        "1 cup sugar, for Blueberry Cobbler Batter",
+        "2 teaspoons baking powder, for Blueberry Cobbler Batter",
+        "1/4 teaspoon kosher salt, for Blueberry Cobbler Batter",
+        "1 cup milk, or half-and-half, for Blueberry Cobbler Batter",
+        "1 teaspoon vanilla extract, optional",
+        "1/2 teaspoon ground cinnamon, optional"
+      ],
+      "instruction": [
+        {
+          "Prep.": "Preheat the oven to 350º F. Add sliced butter to the baking dish and place in the oven while it preheats to allow the butter to melt. Remove the baking dish once the butter has melted."
+        },
+        {
+          "Prep the blueberries.": "Add blueberries and 1/2 cup sugar to a bowl and toss to combine."
+        },
+        {
+          "Make the cobbler batter.": "Whisk together the flour, sugar, baking powder, and salt. Pour in the milk and whisk until smooth and well combined."
+        },
+        {
+          "Add blueberries.": "Pour the sugared blueberries over the melted butter, evenly distributing over the melted butter. Do not stir."
+        },
+        {
+          "Add the cobbler batter.": "Pour the cobbler batter evenly over the blueberries, do not stir."
+        },
+        {
+          "Bake": "Bake until lightly golden brown on top, about 35 to 40 minutes. Remove from the oven and allow to rest about 3 minutes."
+        },
+        {
+          "Serve.": "Serve warm."
+        }
+      ],
+      "nutrition": {
+        "calories": "371kcal",
+        "carbohydrates": "68g",
+        "protein": "3g",
+        "fat": "11g",
+        "saturated fat": "7g",
+        "polyunsaturatedfat": "1g",
+        "monounsaturatedfat": "3g",
+        "transfat": "0.4g",
+        "cholesterol": "29mg",
+        "sodium": "236mg",
+        "potassium": "247mg",
+        "fiber": "3g",
+        "sugar": "50g",
+        "vitamina": "407IU",
+        "vitaminc": "11mg",
+        "calcium": "84mg",
+        "iron": "1mg"
+      },
+      "image": [
+        "https://dinnerthendessert.com/wp-content/uploads/2020/05/Blueberry-Cobbler-2.jpg",
+
+        "https://www.recipegirl.com/wp-content/uploads/2016/06/Blueberry-Cobbler-5.jpg",
+
+        "https://www.momontimeout.com/wp-content/uploads/2021/08/blueberry-cobbler-recipe-square.jpeg",
+
+        "https://www.allrecipes.com/thmb/N5_kLBr6vJncyOlpV39s37gVECs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8380455-05ed03a369dd41ef88ed6076ffd4b7a5.jpg"
+      ]
+    },
+    //  26
+    {
+      "id": "26",
+      "title": "Grandmother’s Peach Cobbler Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "20 minutes",
+      "cook": "40 minutes",
+      "total": "1 hour",
+      "serving": "6",
+      "category": "Cobblers",
+      "description": "Peach Cobbler Recipe – My Grandmother’s peach cobbler recipe is a traditional Southern peach cobbler!",
+      "ingredient": [
+        "2 tablespoons butter",
+        "5 cups peaches, sliced",
+        "1/4 cup sugar",
+        "pinch kosher salt",
+        "2 tablespoons all-purpose flour",
+        "1½ cups all-purpose flour, for Cobbler Crust",
+        "½ teaspoon kosher salt, for Cobbler Crust",
+        "1 tablespoon sugar, for Cobbler Crust",
+        "¼ cup shortening, for Cobbler Crust",
+        "¼ cup butter, plus more for buttering pie plate or skillet, for Cobbler Crust",
+        "4-5 tablespoons ice water, plus more for buttering pie plate or skillet, for Cobbler Crust"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Prepare cobbler crust as directed below."
+        },
+        {
+          "Step 2": "Preheat oven to 425º F."
+        },
+        {
+          "Step 3": "Melt butter in a 10-inch skillet set over medium hat. Stir in peaches, sugar, salt, and flour and cook until a thick syrup has formed that will easily coat the back of a spoon, about 10 minutes."
+        },
+        {
+          "Step 4": "Roll the cobbler crust on a lightly floured surface to about 1/8-inch thick. Cut into 8 strips. Place 4 strips over the peach cobbler in one direction and then place the remaining 4 strips over top of the first strips in the opposite direction in a lattice pattern, if you desire."
+        },
+        {
+          "Step 5": "Bake until the peach cobbler filling is bubbling and the crust is golden brown, about 30 minutes. Remove from the oven and allow to cool about 15 minutes before serving."
+        },
+        {
+          "Step 6": "For Cobbler Crust, In a large bowl, combine the flour and the salt. Cut in the shortening and butter with a pastry blender or two forks until the mixture resembles a coarse meal."
+        },
+        {
+          "Step 7": "Gradually add enough ice water to the mixture while mixing with a wooden spoon until a ball of dough is formed."
+        },
+        {
+          "Step 7": "Pour the dough onto a lightly floured surface and form into a disc. Lightly flour the top of the dough and wrap well with plastic wrap and place into the freezer for 30 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": "389kcal",
+        "carbohydrates": "48g",
+        "protein": "4g",
+        "fat": "20g",
+        "saturated fat": "9g",
+        "cholesterol": "30mg",
+        "sodium": "296mg",
+        "potassium": "277mg",
+        "fiber": "2g",
+        "sugar": "21g",
+        "vitamin a": "770IU",
+        "vitamin c": "8.5mg",
+        "calcium": "15mg",
+        "iron": "1.9mg"
+      },
+      "image": [
+        "https://omgchocolatedesserts.com/wp-content/uploads/2015/06/Peach-Cobler-featured-new.jpg",
+
+        "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/17/0/KC0301H_Peach-Cobbler_s4x3.jpg.rend.hgtvcom.616.462.suffix/1417623736015.jpeg",
+
+        "https://topteenrecipes.com/wp-content/uploads/2022/01/Old-Fashioned-Peach-Cobbleruntitled_design__3_-683x1024.jpg",
+
+        "https://www.tasteofhome.com/wp-content/uploads/2018/01/Peach-Cobbler-for-Two_EXPS_CF219_10849_B12_13_14b-2.jpg?fit=700%2C1024"
+      ]
+    },
+    //  27
+    {
+      "id": "27",
+      "title": "Strawberry Cobbler Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "5 minutes",
+      "cook": "35 minutes",
+      "total": "40 minutes",
+      "serving": "8",
+      "category": "Cobblers",
+      "description": "This Strawberry Cobbler Recipe is a classic Southern dessert! This easy strawberry cobbler recipe comes together quickly and bakes into a thick, sweet, yet still tart, strawberry layer topped with a buttery topping. ",
+      "equipment": ["Baking Dish (9×13)", "Whisk (Balloon)", "Mixing Bowl"],
+      "ingredient": [
+        "1/2 cup salted butter",
+        "4 cups strawberries, hulled and halved",
+        "1/2 cup sugar",
+        "For Strawberry Cobbler Batter, 1 cup flour",
+        "2 teaspoons baking powder",
+        "1 cup sugar",
+        "1/4 teaspoon kosher salt",
+        "1 cup milk",
+        "1/2 teaspoon vanilla extract, optional"
+      ],
+      "instruction": [
+        {
+          "Prep.": "Preheat the oven to 350º F. Add sliced butter to the baking dish and place in the oven while it preheats to allow the butter to melt. Remove the baking dish once the butter has melted."
+        },
+        {
+          "Prep the strawberries.": "Add strawberries and 1/2 cup sugar to a bowl and toss to combine."
+        },
+        {
+          "Make the cobbler batter.": "Whisk together the flour, sugar, baking powder, and salt. Pour in the milk and whisk until smooth and well combined."
+        },
+        {
+          "Add strawberries.": "Pour the sugared strawberries over the melted butter, evenly distributing over the melted butter. Do not stir."
+        },
+        {
+          "Add the cobbler batter.": "Pour the cobbler batter evenly over the strawberries, do not stir."
+        },
+        {
+          "Bake.": "Bake until lightly golden brown on top, about 35 to 40 minutes. Remove from the oven and allow to rest about 3 minutes."
+        },
+        {
+          "Serve.": "Serve warm."
+        }
+      ],
+      "nutrition": {
+        "calories": "346kcal",
+        "carbohydrates": "57g",
+        "protein": "3g",
+        "fat": "13g",
+        "saturated fat": "8g",
+        "polyunsaturatedfat": "1g",
+        "monounsaturatedfat": "3g",
+        "transfat": "0.5g",
+        "cholesterol": "34mg",
+        "sodium": "178mg",
+        "potassium": "278mg",
+        "fiber": "2g",
+        "sugar": "42g",
+        "vitamina": "413IU",
+        "vitaminc": "42mg",
+        "calcium": "99mg",
+        "iron": "1mg"
+      },
+      "image": [
+        "hhttps://www.jocooks.com/wp-content/uploads/2023/06/strawberry-cobbler-1-17.jpg",
+
+        "https://preppykitchen.com/wp-content/uploads/2022/05/Strawberry-Cobbler-Feature.jpg",
+
+        "https://sweetandsavorymeals.com/wp-content/uploads/2020/06/strawberry-cobbler-recipe.jpg",
+
+        "https://therecipecritic.com/wp-content/uploads/2022/08/strawberrycobbler-1.jpg"
+      ]
+    },
+    //  28
+    {
+      "id": "28",
+      "title": "Easy Blackberry Cobbler Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "5 minutes",
+      "cook": "30 minutes",
+      "total": "35 minutes",
+      "serving": "8",
+      "category": "Cobblers",
+      "description": "This easy Blackberry Cobbler recipe requires 5 minutes of prep time for a delicious cobbler recipe! Use fresh or frozen blackberries in this classic dessert any time.",
+      "equipment": ["Baking Dish (9×13)", "Whisk (Balloon)", "Mixing Bowl"],
+      "ingredient": [
+        "1/2 cup butter, salted",
+        "4 cups blackberries",
+        "1/2 cup sugar",
+        "For Blackberry Cobbler Batter, 1 cup flour",
+        "2 teaspoons baking powder",
+        "1 cup sugar",
+        "1/4 teaspoon kosher salt",
+        "1 cup milk",
+        "1/2 teaspoon vanilla extract, optional"
+      ],
+      "instruction": [
+        {
+          "Prep.": "Preheat the oven to 350º F. Add sliced butter to the baking dish and place in the oven while it preheats to allow the butter to melt. Remove the baking dish once the butter has melted."
+        },
+        {
+          "Prep the blackberries.": "Add blackberries and 1/2 cup sugar to a bowl and toss to combine."
+        },
+        {
+          "Make the cobbler batter.": "Whisk together the flour, sugar, baking powder, and salt. Pour in the milk and whisk until smooth and well combined."
+        },
+        {
+          "Add blackberries.": "Pour the sugared blackberries over the melted butter, evenly distributing over the melted butter. Do not stir."
+        },
+        {
+          "Add the cobbler batter.": "Pour the cobbler batter evenly over the blackberries, do not stir."
+        },
+        {
+          "Bake.": "Bake until lightly golden brown on top, about 35 to 40 minutes. Remove from the oven and allow to rest about 3 minutes."
+        },
+        {
+          "Serve.": "Serve warm."
+        }
+      ],
+      "nutrition": {
+        "calories": "354kcal",
+        "carbohydrates": "58g",
+        "protein": "4g",
+        "fat": "13g",
+        "saturatedfat": "8g",
+        "polyunsaturatedfat": "1g",
+        "monounsaturatedfat": "3g",
+        "transfat": "0.5g",
+        "cholesterol": "34mg",
+        "sodium": "178mg",
+        "potassium": "285mg",
+        "fiber": "4g",
+        "sugar": "42g",
+        "vitamina": "558IU",
+        "vitaminc": "15mg",
+        "calcium": "108mg",
+        "iron": "1mg"
+      },
+      "image": [
+        "https://cookiesandcups.com/wp-content/uploads/2020/09/blackberrycobbler-5.jpg",
+
+        "https://www.fivehearthome.com/wp-content/uploads/2023/06/Blackberry-Cobbler-Recipe-by-FiveHeartHome_1200px-6-Square60.jpg",
+
+        "https://thecozycook.com/wp-content/uploads/2019/06/Blacberry-Cobbler.jpg",
+
+        "https://thestayathomechef.com/wp-content/uploads/2018/05/Blackberry-Cobbler-4-small.jpg"
+      ]
+    },
+    //  29
+    {
+      "id": "29",
+      "title": "Southern Chocolate Cobbler Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "5 minutes",
+      "cook": "35 minutes",
+      "total": "40 minutes",
+      "serving": "12",
+      "category": "Cobblers",
+      "description": "Chocolate Cobbler is a classic Southern dessert recipe. With a delicious brownie-like topping and a rich fudge sauce on the bottom, this Chocolate Cobbler is like a lava cake but so much easier to make. Great for reunions, potlucks, and more!",
+      "ingredient": [
+        "1/2 cup butter",
+        "1 1/2 cups granulated sugar",
+        "3 tablespoons unsweetened cocoa powder",
+        "2 cups self-rising flour",
+        "1 cup whole milk",
+        "2 teaspoons vanilla extract",
+        "For Chocolate Cobbler Topping, 2 cups granulated sugar",
+        "1/2 cup unsweetened cocoa powder",
+        "3 cups boiling water",
+        "vanilla ice cream, for serving (optional, but recommended)"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat the oven to 350º F."
+        },
+        {
+          "Step 2": "Place butter into a 9×13 baking dish and into the oven to melt. Then, remove from the oven and set aside."
+        },
+        {
+          "Step 3": "Mix together the sugar, cocoa powder, flour, milk, and vanilla extract for the batter. Spoon the mixture into the baking dish on top of the melted butter. DO NOT STIR."
+        },
+        {
+          "Step 4": "In a separated bowl, mix 2 cups sugar and ½ cup cocoa powder. Sprinkle this topping mixture on top of the batter. Pour the boiling water over topping. DO NOT STIR."
+        },
+        {
+          "Step 5": "Bake for 35 to 40 minutes or until top is set. The bottom of the cobbler will still be a little loose. Cool for 15 to 20 minutes."
+        },
+        {
+          "Step 6": "Top with vanilla ice cream (optional) and serve."
+        }
+      ],
+      "nutrition": {
+        "serving": "0.5cup",
+        "calories": "394kcal",
+        "carbohydrates": "77g",
+        "protein": "4g",
+        "fat": "9g",
+        "saturated fat": "5g",
+        "cholesterol": "22mg",
+        "sodium": "78mg",
+        "potassium": "121mg",
+        "fiber": "2g",
+        "sugar": "59g",
+        "vitamin a": "270IU",
+        "calcium": "35mg",
+        "iron": "0.9mg"
+      },
+      "image": [
+        "https://divascancook.com/wp-content/uploads/2021/05/chocolate-cobbler.jpg",
+
+        "https://chocolatewithgrace.com/wp-content/uploads/2023/06/Chocolate-Cobbler-CWG-16-1-of-1-500x500.jpg",
+
+        "https://i2.wp.com/dancearoundthekitchen.com/wp-content/uploads/2019/04/Chocolate-Cobbler1.jpg?fit=750%2C609",
+
+        "https://www.dessertfortwo.com/wp-content/uploads/2013/01/southern-chocolate-cobbler-2-720x720.jpg"
+      ]
+    },
+    // ---------ICE CREAM---------
+    //  30
+    {
+      "id": "30",
+      "title": "Old Fashioned Vanilla Ice Cream Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "5 minutes",
+      "cook": "10 minutes",
+      "total": "15 minutes",
+      "serving": "8",
+      "category": "Ice Cream",
+      "description": "An old fashioned vanilla ice cream recipe that everyone loves! This creamy custard base homemade vanilla ice cream recipe tastes like an ice cream parlor favorite.",
+      "ingredient": [
+        "4 egg yolks",
+        "1/2 cup granulated sugar",
+        "1 cup whole milk",
+        "1 cup heavy cream",
+        "2 teaspoons vanilla extract, or vanilla bean paste"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Add egg yolks and sugar to a medium saucepan and whisk until a light yellow color and well combined. In another small sauce pan, heat milk over medium-low heat until it just begins to simmer. Do not stir. Gradually add milk to egg and sugar mixture, stirring constantly. Return to heat until it reaches 165º F, but do not allow it to come to a boil. As soon as it reaches the correct temperature, remove it from the heat. Pour custard base into an airtight container and store in the refrigerator until it chills to 65º F. The longer the custard base chills, the creamier your ice cream will be."
+        },
+        {
+          "Step 2": "Once the custard base is ready, stir in the heavy cream and vanilla extract and pour it into your ice cream maker and process according to your ice cream maker’s instructions."
+        }
+      ],
+      "nutrition": {
+        "serving": "0.5cup",
+        "calories": "198kcal",
+        "carbohydrates": "15g",
+        "protein": "2g",
+        "fat": "14g",
+        "saturated fat": "8g",
+        "cholesterol": "141mg",
+        "sodium": "28mg",
+        "potassium": "72mg",
+        "sugar": "14g",
+        "vitamin a": "615IU",
+        "vitamin c": "0.2mg",
+        "calcium": "65mg",
+        "iron": "0.3mg"
+      },
+      "image": [
+        "https://joyfoodsunshine.com/wp-content/uploads/2020/07/homemade-vanilla-ice-cream-recipe-6.jpg",
+
+        "https://chatelaine.com/wp-content/uploads/2012/08/Old-fashioned-vanilla-ice-cream-0-l.jpg",
+
+        "https://handletheheat.com/wp-content/uploads/2021/06/homemade-vanilla-ice-cream-550x550.jpg",
+
+        "https://thriftandspice.com/wp-content/uploads/2021/06/old-fashioned-home-made-ice-cream.jpg"
+      ]
+    },
+    //  31
+    {
+      "id": "31",
+      "title": "Cherry Frozen Yogurt Recipe ",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "10 minutes",
+      "total": "15 minutes",
+      "serving": "8",
+      "category": "Ice Cream",
+      "description": "Cherry Frozen Yogurt makes a delicious and refreshing dessert in minutes! Ready in just 6 minutes!",
+      "ingredient": [
+        "2 (16 ounce) bags frozen cherries",
+        "1/2 cup honey, , maple syrup, or simple syrup",
+        "1 cup plain yogurt",
+        "2 tablespoons lemon juice",
+        "pinch kosher salt"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Add all ingredients to container of food processor or high speed blender. Process until smooth and creamy, 5 to 6 minutes. Serve immediately or store in an airtight container in the freezer."
+        }
+      ],
+      "nutrition": {
+        "serving": "0.5cup",
+        "calories": "198kcal",
+        "carbohydrates": "15g",
+        "protein": "2g",
+        "fat": "14g",
+        "saturatedfat": "8g",
+        "cholesterol": "141mg",
+        "sodium": "28mg",
+        "potassium": "72mg",
+        "sugar": "14g",
+        "vitamina": "615IU",
+        "vitaminc": "0.2mg",
+        "calcium": "65mg",
+        "iron": "0.3mg"
+      },
+      "image": [
+        "https://eadn-wc01-4177395.nxedge.io/wp-content/uploads/2023/03/1520622TRFRE0887.jpg",
+
+        "https://www.simplyrecipes.com/thmb/G1PGsz4kuoXbuUZRExyeJaDj6_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__05__cherry-frozen-yogurt-vertical-a-1800-a541a8e0b11742d3bc25dac1311f3a0a.jpg",
+
+        "https://cook.me/wp-content/uploads/2019/06/Cherry-Cheesecake-Frozen-Yogurt-Recipe-How-To-Make-Cherry-Cheesecake-Frozen-Yogurt-Delicious-Cherry-Cheesecake-Frozen-Yogurt-13.jpg",
+
+        "https://images.squarespace-cdn.com/content/v1/5f6d5bcf6891fa3320854112/1601432113266-NJTHPANXVL1EOYGUCUMN/fullsizeoutput_2a03.jpeg"
+      ]
+    },
+    //  32
+    {
+      "id": "32",
+      "title": "Fresh Pineapple Sorbet Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "5 minutes",
+      "cook": "8 minutes",
+      "total": "13 minutes",
+      "serving": "4",
+      "category": "Ice Cream",
+      "description": "Fresh pineapple sorbet makes a light and refreshing dessert or afternoon treat! Made without any added sugar, this is a sorbet recipe everyone will enjoy!",
+      "ingredient": [
+        "1 medium 1 1/2 pound ripe pineapple, peeled and cubed (about 3 cups)"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Arrange the oven rack to the next to the highest space in oven. Turn on the broiler."
+        },
+        {
+          "Step 2": "Arrange the pineapple chunks onto a rimmed baking sheet. Place into the oven and broil until the juices begin to release from the pineapple and the pineapple begins to turn golden brown, about 8 minutes."
+        },
+        {
+          "Step 3": "Remove the pan from the oven and pour into a blender container. Turn the blender onto low speed until the pineapple begins puree, then increase the speed to medium or medium-high speed until the pineapple is pureed and smooth."
+        },
+        {
+          "Step 4": "Pour the pineapple puree into the container of a 2-quart ice cream maker and process according to the ice cream maker instructions. Alternately if you do not have an ice cream maker, you can pour into a metal pan with a tight fitting lid and place into the freezer until frozen throughout, about 3 hours."
+        }
+      ],
+      "nutrition": {
+        "calories": "113kcal",
+        "carbohydrates": "30g",
+        "protein": "1g",
+        "fat": "0.3g",
+        "saturatedfat": "0.02g",
+        "polyunsaturatedfat": "0.1g",
+        "monounsaturatedfat": "0.03g",
+        "sodium": "2mg",
+        "potassium": "247mg",
+        "fiber": "3g",
+        "sugar": "22g",
+        "vitamina": "131IU",
+        "vitaminc": "108mg",
+        "calcium": "29mg",
+        "iron": "1mg"
+      },
+      "image": [
+        "https://www.garlicandzest.com/wp-content/uploads/2015/07/pineapple-sorbet-1.jpg",
+
+        "https://culinaryshades.com/wp-content/uploads/2022/06/Pineapple-sorbet-ice-cream-sq1-500x500.jpg",
+
+        "https://mediavine-res.cloudinary.com/image/upload/s--Fx-8B1_j--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1623681586/wtcbcj78llnoeifvfm2k.jpg",
+
+        "https://freshwaterpeaches.com/wp-content/uploads/2023/05/pineapple-sorbet-8-1-of-1-500x500.jpg"
+      ]
+    },
+    //  33
+    {
+      "id": "33",
+      "title": "Grilled Peaches Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "5 minutes",
+      "cook": "10 minutes",
+      "total": "15 minutes",
+      "serving": "8",
+      "category": "Ice Cream",
+      "description": "This Grilled Peaches with Honey and Ice Cream recipe is a simple yet decadent dessert! Juicy peaches are lightly grilled then drizzled with honey and served with vanilla ice cream for a treat everyone loves!",
+      "ingredient": [
+        "8 peaches, halved with pit removed but not peeled",
+        "vanilla ice cream, optional",
+        "honey to drizzle"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Heat grill or grill pan to about 350 degrees Fahrenheit. "
+        },
+        {
+          "Step 2": "Place peaches on preheated grill flesh side down for 4 to 5 minutes."
+        },
+        {
+          "Step 3": "Flip to the skin side for an additional 4 to 5 minutes."
+        },
+        {
+          "Step 4": "Remove and serve warm with a scoop of vanilla ice cream."
+        },
+        {
+          "Step 5": "Drizzle with honey."
+        }
+      ],
+      "nutrition": {
+        "serving": "1peach",
+        "calories": "63kcal",
+        "carbohydrates": "15g",
+        "protein": "1g",
+        "fat": "0.4g",
+        "saturatedfat": "0.03g",
+        "polyunsaturatedfat": "0.1g",
+        "monounsaturatedfat": "0.1g",
+        "sodium": "20mg",
+        "potassium": "183mg",
+        "fiber": "2g",
+        "sugar": "13g",
+        "vitamina": "489IU",
+        "vitaminc": "6mg",
+        "calcium": "6mg",
+        "iron": "1mg"
+      },
+      "image": [
+        "https://www.thecookierookie.com/wp-content/uploads/2014/06/featured-grilled-peaches-and-cream-500x375.jpg",
+
+        "https://feelgoodfoodie.net/wp-content/uploads/2021/07/grilled-peaches-09.jpg",
+
+        "https://grandbaby-cakes.com/wp-content/uploads/2020/07/Grilled-Peaches-4.jpg",
+
+        "https://sweetsimplevegan.com/wp-content/uploads/2019/06/Maple-Glazed-Grilled-Peaches-Ice-Cream-Easy-Sweet-Simple-Vegan-Featured-Image.jpg"
+      ]
+    },
+    //  34
+    {
+      "id": "34",
+      "title": "S’mores Ice Cream Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "30 minutes",
+      "cook": "3 minutes",
+      "total": "33 minutes",
+      "serving": "16",
+      "category": "Ice Cream",
+      "description": "S’mores Ice Cream filled with graham crackers, chocolate, and toasted marshmallows. This recipe makes the perfect s’more ice cream to bring back campfire memories!",
+      "ingredient": [
+        "2 cups whole milk",
+        "1 1/2 cups whipping cream",
+        "1 1/2 cups granulated sugar",
+        "pinch kosher salt",
+        "1 teaspoon vanilla extract",
+        "12 large marshmallows",
+        "6 large graham crackers, crumbled",
+        "1 milk chocolate bars, broken into pieces"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Mix together milk, whipping cream, sugar, salt and vanilla. Pour into the insert of ice cream maker and make according to ice cream maker instructions. In the meantime, place marshmallows on a baking sheet and broil for about 3 minutes, taking care not to burn. Remove from oven and allow to cool."
+        },
+        {
+          "Step 2": "Once ice cream is almost ready, add crumbled graham crackers and chocolate pieces. Tear apart marshmallows and add pieces to ice cream as well. Continue making ice cream until it has completely made. Serve immediately for softserve ice cream or place in an airtight container and place in freezer for a few hours or overnight for a firmer ice cream."
+        }
+      ],
+      "nutrition": {
+        "calories": "218kcal",
+        "carbohydrates": "30g",
+        "protein": "2g",
+        "fat": "11g",
+        "saturatedfat": "6g",
+        "cholesterol": "34mg",
+        "sodium": "61mg",
+        "potassium": "79mg",
+        "fiber": "1g",
+        "sugar": "25g",
+        "vitamina": "375IU",
+        "vitaminc": "0.2mg",
+        "calcium": "54mg",
+        "iron": "0.4mg"
+      },
+
+      "image": [
+        "https://www.simplymaderecipes.com/wp-content/uploads/2018/05/Smores-Ice-Cream-Sundae-main.png",
+
+        "https://kickassbaker.com/wp-content/uploads/2023/03/smores-ice-cream-cone-1x1-1.jpg",
+
+        "https://www.davidlebovitz.com/wp-content/uploads/2015/10/Smores-Ice-Cream-recipe-5.jpg",
+
+        "https://www.chiselandfork.com/wp-content/uploads/2018/09/smores-ice-cream-3.jpg"
+      ]
+    }
+  ]
+}
