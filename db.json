@@ -1,7 +1,5 @@
 {
   "recipes": [
-    // ---------COOKIES---------
-    // 1
     {
       "id": "1",
       "title": "Nutella Chocolate Chip Cookies Recipe",
@@ -66,7 +64,7 @@
         "https://www.thecookierookie.com/wp-content/uploads/2021/10/featured-nutella-stuffed-cookies-recipe.jpg"
       ]
     },
-    // 2
+
     {
       "id": "2",
       "title": "Best Chocolate Chip Cookies Recipe",
@@ -152,7 +150,7 @@
         "https://natashaskitchen.com/wp-content/uploads/2020/05/Chocolate-Chip-Cookies-Recipe.jpg"
       ]
     },
-    // 3
+
     {
       "id": "3",
       "title": "Triple Chocolate Cookies Recipe",
@@ -227,7 +225,7 @@
         "https://foodtasia.com/wp-content/uploads/2016/12/triple-chocolate-cookie-12.jpg"
       ]
     },
-    // 4
+
     {
       "id": "4",
       "title": "Funfetti Cookies Recipe",
@@ -289,7 +287,7 @@
         "https://www.sweetestmenu.com/wp-content/uploads/2022/06/funfetticookies35aa.jpg"
       ]
     },
-    // 5
+
     {
       "id": "5",
       "title": "Oatmeal Lace Cookies Recipe",
@@ -353,8 +351,7 @@
         "https://stressbaking.com/wp-content/uploads/2018/07/oatmeal-lace-cookies-1-10.jpg"
       ]
     },
-    // ---------CAKES---------
-    // 6
+
     {
       "id": "6",
       "title": "Red Velvet Cake Recipe",
@@ -432,7 +429,7 @@
         "https://bakingamoment.com/wp-content/uploads/2018/05/IMG_7709-red-velvet-layer-cake-square.jpg"
       ]
     },
-    // 7
+
     {
       "id": "7",
       "title": "Cream Cheese Pound Cake",
@@ -490,7 +487,6 @@
         "https://images.squarespace-cdn.com/content/v1/5ff8b89f92e37d4757633b70/1621604122540-BHWG0SRW608K7DOOHWNB/Strawberries+and+Cream+Pound+Cake+%7C+The+Old+Mill+%7C+Pigeon+Forge%2C+TN"
       ]
     },
-    // 8
     {
       "id": "8",
       "title": "The Best Chocolate Cake Recipe {Ever}",
@@ -562,7 +558,6 @@
         "https://www.texanerin.com/content/uploads/2022/01/gluten-free-chocolate-cake-image-650x975.jpeg"
       ]
     },
-    // 9
     {
       "id": "9",
       "title": "Lemon Curd Cake with Lemon Cream Cheese Frosting",
@@ -643,7 +638,6 @@
         "https://www.dessertfortwo.com/wp-content/uploads/2011/03/lemon-layer-cake-10.jpg"
       ]
     },
-    // 10
     {
       "id": "10",
       "title": "Mississippi Mud Cake Recipe",
@@ -721,8 +715,6 @@
         "https://i1.wp.com/funmoneymom.com/wp-content/uploads/2021/09/IMG_1166-1.jpg"
       ]
     },
-    // ---------FROSTING---------
-    // 11
     {
       "id": "11",
       "title": "Perfect Chocolate Buttercream Frosting Recipe",
@@ -785,7 +777,6 @@
         "https://www.simplyrecipes.com/thmb/DJjBVuCRa3WzGE2DKjRr-IV3SxQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Chocolate-Buttercream-LEAD-08-3e271a161729440ea65947b92b42abbe.jpg"
       ]
     },
-    // 12
     {
       "id": "12",
       "title": "Classic Vanilla Buttercream Frosting Recipe",
@@ -843,7 +834,6 @@
         "https://www.dessertnowdinnerlater.com/wp-content/uploads/2020/01/Vanilla-Buttercream-Frosting-1-720x720.jpg"
       ]
     },
-    // 13
     {
       "id": "13",
       "title": "Strawberry Buttercream Frosting Recipe",
@@ -901,7 +891,6 @@
         "https://simshomekitchen.com/wp-content/uploads/2023/05/philadelphia-strawberry-frosting-in-a-bowl-scaled.jpg"
       ]
     },
-    // 14
     {
       "id": "14",
       "title": "Nutella Buttercream Frosting Recipe",
@@ -958,8 +947,6 @@
         "https://confessionsofabakingqueen.com/wp-content/uploads/2021/04/chocolate-american-buttercream-swirled-in-a-glass-bowl-1-of-1-1024x1536-1-768x768.jpg"
       ]
     },
-    // ---------CHOCOLATE DESSERTS---------
-    // 15
     {
       "id": "15",
       "title": "Chocolate Covered Strawberries Recipe",
@@ -1016,7 +1003,6 @@
         "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/01/14/0/FNK_CHOCOLATE_COVERED_STRAWBERRIES_H.jpg.rend.hgtvcom.1280.720.suffix/1579042627182.jpeg"
       ]
     },
-    // 16
     {
       "id": "16",
       "title": "S’mores Bars Recipe",
@@ -1081,7 +1067,6 @@
         "https://dinnerthendessert.com/wp-content/uploads/2019/12/Smores-Bars.jpg"
       ]
     },
-    // 17
     {
       "id": "17",
       "title": "Double Chocolate Cupcakes Recipe",
@@ -1138,7 +1123,6 @@
         "https://www.browneyedbaker.com/wp-content/uploads/2016/01/mocha-cupcakes-1-1200.jpg"
       ]
     },
-    // 18
     {
       "id": "18",
       "title": "The Best Brownies Recipe Ever",
@@ -1213,7 +1197,6 @@
         "https://thestayathomechef.com/wp-content/uploads/2021/03/Best-brownies-3-by-4.jpg"
       ]
     },
-    // 19
     {
       "id": "19",
       "title": "No Bake Oreo Truffles Recipe",
@@ -1274,8 +1257,6 @@
         "https://img.taste.com.au/FtzninIS/taste/2010/01/oreo-truffles-175216-2.jpg"
       ]
     },
-    // ---------PIES---------
-    //  20
     {
       "id": "20",
       "title": "The Best Peach Pie Recipe",
@@ -1337,7 +1318,6 @@
         "https://www.simplyrecipes.com/thmb/-nc7d4ROyAB_pjPO6_bpYsY4vqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2017__07__2017-07-25-Peach-Pie-14-e3e69eeafca14a7281bcdf77e721a64e.jpg"
       ]
     },
-    //  21
     {
       "id": "21",
       "title": "Coconut Cream Pie Recipe",
@@ -1419,7 +1399,6 @@
         "https://100krecipes.com/wp-content/uploads/2020/10/Grandmas-Coconut-Cream-Piefirst_image.jpg"
       ]
     },
-    //  22
     {
       "id": "22",
       "title": "Best Pecan Pie Recipe",
@@ -1480,7 +1459,6 @@
         "https://tastesbetterfromscratch.com/wp-content/uploads/2022/11/Pecan-Pie-Web-8.jpg"
       ]
     },
-    //  23
     {
       "id": "23",
       "title": "Classic Pumpkin Pie Recipe",
@@ -1550,7 +1528,6 @@
         "https://sallysbakingaddiction.com/wp-content/uploads/2014/10/sallys-baking-addiction-pumpkin-pie-2.jpg"
       ]
     },
-    //  24
     {
       "id": "24",
       "title": "Strawberry Pie Recipe",
@@ -1611,8 +1588,6 @@
         "https://hips.hearstapps.com/hmg-prod/images/strawberry-pie-recipe-1648660021.jpeg?crop=0.669xw:1.00xh;0.166xw,0&resize=1200:*"
       ]
     },
-    // ---------COBBLER---------
-    //  25
     {
       "id": "25",
       "title": "Blueberry Cobbler Recipe",
@@ -1689,7 +1664,6 @@
         "https://www.allrecipes.com/thmb/N5_kLBr6vJncyOlpV39s37gVECs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8380455-05ed03a369dd41ef88ed6076ffd4b7a5.jpg"
       ]
     },
-    //  26
     {
       "id": "26",
       "title": "Grandmother’s Peach Cobbler Recipe",
@@ -1766,7 +1740,6 @@
         "https://www.tasteofhome.com/wp-content/uploads/2018/01/Peach-Cobbler-for-Two_EXPS_CF219_10849_B12_13_14b-2.jpg?fit=700%2C1024"
       ]
     },
-    //  27
     {
       "id": "27",
       "title": "Strawberry Cobbler Recipe",
@@ -1842,7 +1815,6 @@
         "https://therecipecritic.com/wp-content/uploads/2022/08/strawberrycobbler-1.jpg"
       ]
     },
-    //  28
     {
       "id": "28",
       "title": "Easy Blackberry Cobbler Recipe",
@@ -1918,7 +1890,6 @@
         "https://thestayathomechef.com/wp-content/uploads/2018/05/Blackberry-Cobbler-4-small.jpg"
       ]
     },
-    //  29
     {
       "id": "29",
       "title": "Southern Chocolate Cobbler Recipe",
@@ -1988,8 +1959,6 @@
         "https://www.dessertfortwo.com/wp-content/uploads/2013/01/southern-chocolate-cobbler-2-720x720.jpg"
       ]
     },
-    // ---------ICE CREAM---------
-    //  30
     {
       "id": "30",
       "title": "Old Fashioned Vanilla Ice Cream Recipe",
@@ -2042,7 +2011,6 @@
         "https://thriftandspice.com/wp-content/uploads/2021/06/old-fashioned-home-made-ice-cream.jpg"
       ]
     },
-    //  31
     {
       "id": "31",
       "title": "Cherry Frozen Yogurt Recipe ",
@@ -2091,7 +2059,6 @@
         "https://images.squarespace-cdn.com/content/v1/5f6d5bcf6891fa3320854112/1601432113266-NJTHPANXVL1EOYGUCUMN/fullsizeoutput_2a03.jpeg"
       ]
     },
-    //  32
     {
       "id": "32",
       "title": "Fresh Pineapple Sorbet Recipe",
@@ -2147,7 +2114,6 @@
         "https://freshwaterpeaches.com/wp-content/uploads/2023/05/pineapple-sorbet-8-1-of-1-500x500.jpg"
       ]
     },
-    //  33
     {
       "id": "33",
       "title": "Grilled Peaches Recipe",
@@ -2209,7 +2175,6 @@
         "https://sweetsimplevegan.com/wp-content/uploads/2019/06/Maple-Glazed-Grilled-Peaches-Ice-Cream-Easy-Sweet-Simple-Vegan-Featured-Image.jpg"
       ]
     },
-    //  34
     {
       "id": "34",
       "title": "S’mores Ice Cream Recipe",
