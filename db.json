@@ -2277,22 +2277,16 @@
         "https://cdn.loveandlemons.com/wp-content/uploads/2021/06/summer-desserts.jpg"
       ]
     },
+
     {
       "id": "6",
-      "type": "Chocolates",
-      "images": [
-        "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2018/7/30/0/FN_CHOCOLATE-CARAMEL-DOMES-OVERHEAD-SOLO-H_s4x3.jpg.rend.hgtvcom.1280.1024.suffix/1532976493939.jpeg"
-      ]
-    },
-    {
-      "id": "7",
       "type": "Cobblers",
       "images": [
         "https://www.allrecipes.com/thmb/AIoUf4lDFDiN2DSuWnbvaxWyrus=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/88354-easy-batter-fruit-cobbler-DDMFS-4x3-22c084fe06e14af9bc8f821a59a11150.jpg"
       ]
     },
     {
-      "id": "8",
+      "id": "7",
       "type": "Ice Cream",
       "images": [
         "https://www.iheartnaptime.net/wp-content/uploads/2021/05/IHeartNaptime-easy-homemade-ice-cream-8.jpg"
