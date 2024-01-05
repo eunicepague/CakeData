@@ -2250,35 +2250,40 @@
       "type": "Cookies",
       "images": [
         "https://sallysbakingaddiction.com/wp-content/uploads/2013/05/classic-chocolate-chip-cookies.jpg"
-      ]
+      ],
+      "description": "Find everyone’s favorite cookie recipes like Chocolate Chip Cookies, Chewy Sugar Cookies, and easy No Bake Chocolate Cookies, and so many more! Browse through our index of dozens of tested and perfected cookie recipes for the perfect cookie!"
     },
     {
       "id": "2",
       "type": "Cakes",
       "images": [
         "https://stylesweet.com/wp-content/uploads/2022/06/StrawberryChiffon_Featured.jpg"
-      ]
+      ],
+      "description": "Cake recipes. Find the best cake recipes including chocolate cake recipes, white cake recipe, pound cake recipes, caramel cake, and many more."
     },
     {
       "id": "3",
       "type": "Frostings",
       "images": [
         "https://confessionsofabakingqueen.com/wp-content/uploads/2021/05/american-frosting-in-a-glass-bowl-on-top-of-a-blue-and-white-linen-1-of-1-1024x1536-1.jpg"
-      ]
+      ],
+      "description": "Frosting recipes. Find favorite frosting and icing recipes for cakes, cookies, cupcakes and so many other desserts."
     },
     {
       "id": "4",
       "type": "Pies",
       "images": [
         "https://sallysbakingaddiction.com/wp-content/uploads/2022/11/4-unique-beautiful-pie-crust-designs.jpg"
-      ]
+      ],
+      "description": "Pie recipes. Find favorite pie recipes, tart recipes and cobbler recipes including the perfect pie crust recipe, coconut cream pie recipe, pecan pie, peach cobbler, and more"
     },
     {
       "id": "5",
       "type": "Desserts",
       "images": [
         "https://cdn.loveandlemons.com/wp-content/uploads/2021/06/summer-desserts.jpg"
-      ]
+      ],
+      "description": "Dessert and Chocolate recipes. Find fabulous recipes including the best chocolate cake, chocolate pound cake, chocolate frostings, chocolate fondue, chocolate pie and more."
     },
 
     {
@@ -2286,14 +2291,16 @@
       "type": "Cobblers",
       "images": [
         "https://www.allrecipes.com/thmb/AIoUf4lDFDiN2DSuWnbvaxWyrus=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/88354-easy-batter-fruit-cobbler-DDMFS-4x3-22c084fe06e14af9bc8f821a59a11150.jpg"
-      ]
+      ],
+      "description": "Pie recipes. Find favorite pie recipes, tart recipes and cobbler recipes including the perfect pie crust recipe, coconut cream pie recipe, pecan pie, peach cobbler, and more"
     },
     {
       "id": "7",
       "type": "Ice Cream",
       "images": [
         "https://www.iheartnaptime.net/wp-content/uploads/2021/05/IHeartNaptime-easy-homemade-ice-cream-8.jpg"
-      ]
+      ],
+      "description": "Ice Cream Desserts. Find favorite ice cream dessert recipes including family favorites of chocolate ice cream, vanilla ice cream, butter pecan ice cream, and so many more."
     }
   ]
 }
