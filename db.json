@@ -2328,8 +2328,70 @@
       "cook": "30 minutes + 5 hours for chilling",
       "total": "5 hours 45 minutes",
       "Serving": "8",
-      "category": ["Pies, Populars"],
+      "category": ["Pies", "Populars", "Cakes", "Cheesecakes"],
       "description": "This easy cheesecake pie recipe makes the best recipe for cheesecake lovers. Creamy cheesecake filling bakes in a graham cracker crust and is delicious served plain or topped with your favorite cheesecake topping.",
+      "equipment": ["Pie Plate"],
+      "ingredient": [
+        "1 (9-inch) Graham Cracker Crust Recipe",
+        "2 (8-ounce) packages cream cheese, softened",
+        "2/3 cup sugar",
+        "2 large eggs, room temperature",
+        "1 teaspoon vanilla extract",
+        "1/4 cup sour cream, room temperature"
+      ],
+      "instruction": [
+        {
+          "Prepare graham cracker crust": "Prepare the crust according to the recipe directions. Bake 6 to 8 minutes. Remove from the oven and reduce the oven heat to 325º F."
+        },
+        {
+          "Make the cheesecake filling": "Add the softened cream cheese, sugar, eggs, vanilla extract, and sour cream to a large mixing bowl. Use a hand mixer (or stand mixer) on low speed and combine the ingredients until smooth and creamy. You do not want a fluffy, air-filled batter. Pour the cheesecake filling into the baked graham cracker crust."
+        },
+        {
+          "Bake the pie": "Bake the cheesecake pie for 25 to 30 minutes until the center of the pie is almost set. Allow it to cool on a wire rack for 1 hour. Refrigerate at least 5 hours to overnight before slicing and serving"
+        }
+      ],
+      "nutrition": {
+        "Calories": "99kcal",
+        "Carbohydrates": "17g",
+        "Protein": "2g",
+        "Fat": "3g",
+        "Saturated Fat": "1g",
+        "Polyunsaturated Fat": "0.3g",
+        "Monounsaturated Fat": "1g",
+        "Trans Fat": "0.01g",
+        "Cholesterol": "51mg",
+        "Sodium": "21mg",
+        "Potassium": "28mg",
+        "Fiber": "0.003g",
+        "Sugar": "17g",
+        "Vitamin A": "115IU",
+        "Vitamin C": "0.1mg",
+        "Calcium": "15mg",
+        "Iron": "0.2mg"
+      },
+
+      "image": [
+        "https://sallysbakingaddiction.com/wp-content/uploads/2022/08/cheesecake-pie.jpg",
+
+        "https://www.allrecipes.com/thmb/1wBuvTwZ5mXuer8b3BLIg1PqSO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/63954creamy-baked-cheesecake-DDMFS-001-4x3-00da8588119048b68cefb6f51ffdb664.jpg",
+
+        "https://www.allrecipes.com/thmb/DHosjm3NundSDP1q6wWEEECYwr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8419-easy-sour-cream-cheesecake-DDMFS-beauty-4x3-BG-2747-44b427d330aa41aa876269b1249698a0.jpg",
+
+        "https://preppykitchen.com/wp-content/uploads/2022/07/cheesecake-blog-2.jpg"
+      ]
+    },
+
+    {
+      "id": "37",
+      "title": "Instant Pot Oreo Cheesecake Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "10 minutes",
+      "cook": "25 minutes + 4 hours 10 minutes for chilling",
+      "total": "35 minutes",
+      "Serving": "12",
+      "category": ["Pies", "Latests", "Chocolates", "Cakes", "Cheesecakes"],
+      "description": "Instant Pot Oreo Cheesecake Recipe – The perfect cheesecake recipe for the Oreo lover! Put your Instant Pot to work to make this delicious, failproof cheesecake recipe in a fraction of the time!",
       "equipment": ["Pie Plate"],
       "ingredient": [
         "1 (9-inch) Graham Cracker Crust Recipe",
