@@ -9,7 +9,7 @@
       "cook": "13 minutes",
       "total": "18 minutes",
       "Serving": "48 cookies",
-      "category": ["Cookies", "Chocolates"],
+      "category": ["Cookies", "Chocolates", "Populars"],
       "description": "Nutella Chocolate Chip Cookies make the perfect cookies with a glass of milk or cup of coffee. Get this simple, yet delicious Nutella Chocolate Chip Cookies recipe.",
       "ingredient": [
         "1 cup butter, softened",
@@ -1012,7 +1012,7 @@
       "cook": "30 minutes",
       "total": "40 minutes",
       "Serving": "24",
-      "category": "Desserts",
+      "category": ["Desserts", "Populars"],
       "description": "S'mores Bars are easy, delicious dessert bars made with graham crackers, melty chocolate and toasty marshmallows with a delectable blondie crust!",
       "equipment": ["Baking Dish (9×13)", "Hand Mixer or stand mixer"],
       "ingredient": [
@@ -2229,6 +2229,155 @@
         "https://www.davidlebovitz.com/wp-content/uploads/2015/10/Smores-Ice-Cream-recipe-5.jpg",
 
         "https://www.chiselandfork.com/wp-content/uploads/2018/09/smores-ice-cream-3.jpg"
+      ]
+    },
+
+    {
+      "id": "35",
+      "title": "Chocolate Melting Cake Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "10 minutes",
+      "cook": "30 minutes",
+      "total": "40 minutes",
+      "Serving": "8",
+      "category": ["Chocolates", "Cakes", "Populars"],
+      "description": "A delicious recipe for chocolate melting cake perfect for the chocolate lover.",
+      "ingredient": [
+        "8 ounces chocolate chips",
+        "1 cup butter",
+        "7 eggs",
+        "7 tablespoons sugar",
+        "1/2 cup flour"
+      ],
+      "instruction": [
+        {
+          "Step 1": "Preheat oven to 375 degrees."
+        },
+        {
+          "Step 2": "Melt together chocolate and butter."
+        },
+        {
+          "Step 3": "Add eggs and sugar together in a large bowl."
+        },
+        {
+          "Step 4": "Whisk until combined. Add in flour, whisk until combined."
+        },
+        {
+          "Step 5": "Slowly combine chocolate mixture with egg mixture."
+        },
+        {
+          "Step 6": "Combine well"
+        },
+        {
+          "Step 7": "Butter and sugar individual ramekins."
+        },
+        {
+          "Step 8": "Pour chocolate into individual ramekins, filling 3/4 of the dish."
+        },
+        {
+          "Step 9": "Bake at 375 degrees for 15-20 minutes until just done."
+        },
+        {
+          "Step 10": "If mixing sizes of ramekins, be sure to remove the smaller ramekins earlier than larger ones"
+        },
+        {
+          "Step 11": "The outside of the chocolate melting cake should be firm and the inside should have melted chocolate."
+        },
+        {
+          "Step 12": "Serve with a scoop of ice cream or your favorite vanilla sauce."
+        }
+      ],
+      "nutrition": {
+        "Calories": "470kcal",
+        "Carbohydrates": "36g",
+        "Protein": "7g",
+        "Fat": "33g",
+        "Saturated Fat": "20g",
+        "Polyunsaturated Fat": "2g",
+        "Monounsaturated Fat": "7g",
+        "Trans Fat": "1g",
+        "Cholesterol": "208mg",
+        "Sodium": "257mg",
+        "Potassium": "69mg",
+        "Fiber": "1g",
+        "Sugar": "28g",
+        "Vitamin A": "980IU",
+        "Vitamin C": "0.2mg",
+        "Calcium": "63mg",
+        "Iron": "1mg"
+      },
+
+      "image": [
+        "https://www.acouplecooks.com/wp-content/uploads/2022/02/Lava-Cake-005s.jpg",
+
+        "https://www.onceuponachef.com/images/2013/02/Molten-Chocolate-Cakes-13-scaled.jpg",
+
+        "https://www.unicornsinthekitchen.com/wp-content/uploads/2016/02/Molten-chocolate-lava-cake-1-700px.jpg",
+
+        "https://www.crunchycreamysweet.com/wp-content/uploads/2019/02/Molten-chocolate-lava-cake-with-a-strawberry-on-top..jpg"
+      ]
+    },
+
+    {
+      "id": "36",
+      "title": "Easy Cheesecake Pie Recipe",
+      "chef": "Killah Sese",
+      "difficulty": "Easy",
+      "prep": "15 minutes",
+      "cook": "30 minutes + 5 hours for chilling",
+      "total": "5 hours 45 minutes",
+      "Serving": "8",
+      "category": ["Pies, Populars"],
+      "description": "This easy cheesecake pie recipe makes the best recipe for cheesecake lovers. Creamy cheesecake filling bakes in a graham cracker crust and is delicious served plain or topped with your favorite cheesecake topping.",
+      "equipment": ["Pie Plate"],
+      "ingredient": [
+        "1 (9-inch) Graham Cracker Crust Recipe",
+        "2 (8-ounce) packages cream cheese, softened",
+        "2/3 cup sugar",
+        "2 large eggs, room temperature",
+        "1 teaspoon vanilla extract",
+        "1/4 cup sour cream, room temperature"
+      ],
+      "instruction": [
+        {
+          "Prepare graham cracker crust": "Prepare the crust according to the recipe directions. Bake 6 to 8 minutes. Remove from the oven and reduce the oven heat to 325º F."
+        },
+        {
+          "Make the cheesecake filling": "Add the softened cream cheese, sugar, eggs, vanilla extract, and sour cream to a large mixing bowl. Use a hand mixer (or stand mixer) on low speed and combine the ingredients until smooth and creamy. You do not want a fluffy, air-filled batter. Pour the cheesecake filling into the baked graham cracker crust."
+        },
+        {
+          "Bake the pie": "Bake the cheesecake pie for 25 to 30 minutes until the center of the pie is almost set. Allow it to cool on a wire rack for 1 hour. Refrigerate at least 5 hours to overnight before slicing and serving"
+        }
+      ],
+      "nutrition": {
+        "Calories": "99kcal",
+        "Carbohydrates": "17g",
+        "Protein": "2g",
+        "Fat": "3g",
+        "Saturated Fat": "1g",
+        "Polyunsaturated Fat": "0.3g",
+        "Monounsaturated Fat": "1g",
+        "Trans Fat": "0.01g",
+        "Cholesterol": "51mg",
+        "Sodium": "21mg",
+        "Potassium": "28mg",
+        "Fiber": "0.003g",
+        "Sugar": "17g",
+        "Vitamin A": "115IU",
+        "Vitamin C": "0.1mg",
+        "Calcium": "15mg",
+        "Iron": "0.2mg"
+      },
+
+      "image": [
+        "https://sallysbakingaddiction.com/wp-content/uploads/2022/08/cheesecake-pie.jpg",
+
+        "https://www.allrecipes.com/thmb/1wBuvTwZ5mXuer8b3BLIg1PqSO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/63954creamy-baked-cheesecake-DDMFS-001-4x3-00da8588119048b68cefb6f51ffdb664.jpg",
+
+        "https://www.allrecipes.com/thmb/DHosjm3NundSDP1q6wWEEECYwr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8419-easy-sour-cream-cheesecake-DDMFS-beauty-4x3-BG-2747-44b427d330aa41aa876269b1249698a0.jpg",
+
+        "https://preppykitchen.com/wp-content/uploads/2022/07/cheesecake-blog-2.jpg"
       ]
     }
   ],
