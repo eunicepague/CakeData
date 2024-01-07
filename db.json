@@ -2392,54 +2392,83 @@
       "Serving": "12",
       "category": ["Pies", "Latests", "Chocolates", "Cakes", "Cheesecakes"],
       "description": "Instant Pot Oreo Cheesecake Recipe – The perfect cheesecake recipe for the Oreo lover! Put your Instant Pot to work to make this delicious, failproof cheesecake recipe in a fraction of the time!",
-      "equipment": ["Pie Plate"],
       "ingredient": [
-        "1 (9-inch) Graham Cracker Crust Recipe",
-        "2 (8-ounce) packages cream cheese, softened",
-        "2/3 cup sugar",
-        "2 large eggs, room temperature",
-        "1 teaspoon vanilla extract",
-        "1/4 cup sour cream, room temperature"
+        "10-12 Oreo cookies, for Oreo Cookie Crust",
+        "2 tablespoons butter , melted,",
+        "2 (8-ounce) packages cream cheese, for Oreo Cheesecake Filling",
+        "1/4 cup sweetened condensed milk",
+        "1/4 cup sugar",
+        "1/4 cup cornstarch",
+        "2 1/2 teaspoons vanilla extract",
+        "2 large eggs",
+        "2 teaspoons lemon juice",
+        "1 (8-ounce) container sour cream",
+        "Whipped Cream, for Oreo Cheesecake Topping"
       ],
       "instruction": [
         {
-          "Prepare graham cracker crust": "Prepare the crust according to the recipe directions. Bake 6 to 8 minutes. Remove from the oven and reduce the oven heat to 325º F."
+          "Step 1": "Spray a 7-inch springform pan with nonstick cooking spray. Line the bottom of the springform pan with parchment paper, if desired. Set aside."
         },
         {
-          "Make the cheesecake filling": "Add the softened cream cheese, sugar, eggs, vanilla extract, and sour cream to a large mixing bowl. Use a hand mixer (or stand mixer) on low speed and combine the ingredients until smooth and creamy. You do not want a fluffy, air-filled batter. Pour the cheesecake filling into the baked graham cracker crust."
+          "Step 2": "Place Oreos into a large zip top bag. Press as you seal to remove as much air as possible from the bag. Use a rolling pin and crush the Oreos into crumbs. "
         },
         {
-          "Bake the pie": "Bake the cheesecake pie for 25 to 30 minutes until the center of the pie is almost set. Allow it to cool on a wire rack for 1 hour. Refrigerate at least 5 hours to overnight before slicing and serving"
+          "Step 3": "Pour the Oreo crumbs into a medium bowl. Add the melted butter to the Oreos and mix until combined."
+        },
+        {
+          "Step 4": "Press the Oreo mixture into the bottom of the prepared 7-inch springform pan. Place into the freezer for 10 minutes."
+        },
+        {
+          "Step 5": "For the Oreo Cheesecake Filling, Mix together the cream cheese, condensed milk, sugar, and cornstarch until well blended with an electric mixer. Add eggs, one at a time, and beat well. Add lemon juice and vanilla extract until well blended. Add sour cream and beat for 1 more minute."
+        },
+        {
+          "Step 6": "Pour the cheesecake filling over the crust into the springform pan."
+        },
+        {
+          "Step 7": "Pour a cup of water into the bottom of the Instant Pot pot. Arrange the springform pan onto the trivet and lower into the Instant Pot pot."
+        },
+        {
+          "Step 8": "Secure the lid to the Instant Pot. Set the timer for 25 minutes at High pressure. Allow the pressure to release naturally for 10 minutes and then carefully quick-release the remaining pressure. "
+        },
+        {
+          "Step 9": "Carefully remove the lid to the Instant Pot. Using the handles of the trivet, lift the cheesecake from the Instant Pot pot. The cheesecake will have risen considerably, but will reduce as it cools."
+        },
+        {
+          "Step 10": "Allow the Oreo cheesecake to cool on the trivet, cover well with wrap, and refrigerate until chilled completely, about 4 hours."
+        },
+        {
+          "Step 11": "Remove the cheesecake from the refrigerator and remove the sides of the springform pan."
+        },
+        {
+          "Step 12": "Top the cheesecake with whipped cream and crumbled Oreo cookies for serving."
         }
       ],
       "nutrition": {
-        "Calories": "99kcal",
-        "Carbohydrates": "17g",
-        "Protein": "2g",
-        "Fat": "3g",
-        "Saturated Fat": "1g",
-        "Polyunsaturated Fat": "0.3g",
-        "Monounsaturated Fat": "1g",
-        "Trans Fat": "0.01g",
-        "Cholesterol": "51mg",
-        "Sodium": "21mg",
-        "Potassium": "28mg",
-        "Fiber": "0.003g",
-        "Sugar": "17g",
-        "Vitamin A": "115IU",
-        "Vitamin C": "0.1mg",
-        "Calcium": "15mg",
-        "Iron": "0.2mg"
+        "Serving": "1 slice",
+        "Calories": "127 kcal",
+        "Carbohydrates": "17 g",
+        "Protein": "2 g",
+        "Fat": "5 g",
+        "Saturated Fat": "3 g",
+        "Cholesterol": "43 mg",
+        "Sodium": "85 mg",
+        "Potassium": "58 mg",
+        "Fiber": "1 g",
+        "Sugar": "12 g",
+        "Vitamin A": "125 IU",
+        "Vitamin C": "0.5 mg",
+        "Calcium": "26 mg",
+        "Iron": "1 mg"
       },
 
       "image": [
-        "https://sallysbakingaddiction.com/wp-content/uploads/2022/08/cheesecake-pie.jpg",
+        "https://www.mybakingaddiction.com/wp-content/uploads/2016/01/Oreo-Cheesecake-Instant-Pot.jpg",
 
-        "https://www.allrecipes.com/thmb/1wBuvTwZ5mXuer8b3BLIg1PqSO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/63954creamy-baked-cheesecake-DDMFS-001-4x3-00da8588119048b68cefb6f51ffdb664.jpg",
+        "https://foodisafourletterword.com/wp-content/uploads/2019/05/Instant_Pot_Oreo_Cheesecake_closeup2.jpg",
 
-        "https://www.allrecipes.com/thmb/DHosjm3NundSDP1q6wWEEECYwr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8419-easy-sour-cream-cheesecake-DDMFS-beauty-4x3-BG-2747-44b427d330aa41aa876269b1249698a0.jpg",
+        "https://iambaker.net/wp-content/uploads/2019/04/oreo-cheesecake-8.jpg",
 
-        "https://preppykitchen.com/wp-content/uploads/2022/07/cheesecake-blog-2.jpg"
+        "https://drivemehungry.com/wp-content/uploads/2022/06/oreo-cheesecake-18.jpg"
       ]
     }
   ],
