@@ -2068,7 +2068,7 @@
       "cook": "8 minutes",
       "total": "13 minutes",
       "Serving": "4",
-      "category": "Ice Cream",
+      "category": ["Ice Cream", "Latests"],
       "description": "Fresh pineapple sorbet makes a light and refreshing dessert or afternoon treat! Made without any added sugar, this is a sorbet recipe everyone will enjoy!",
       "ingredient": [
         "1 medium 1 1/2 pound ripe pineapple, peeled and cubed (about 3 cups)"
