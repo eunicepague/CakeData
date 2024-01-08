@@ -1327,7 +1327,7 @@
       "cook": "30 minutes",
       "total": "35 minutes",
       "Serving": "8",
-      "category": "Pies",
+      "category": ["Pies", "Latests"],
       "description": "Decadent Coconut Cream Pie with rich, creamy coconut custard topped with pillowy whipped cream and toasted coconut in a flaky homemade pie crust. Delicious dessert perfect for entertaining!",
       "ingredient": [
         "1 pie crust recipe",
@@ -2123,7 +2123,7 @@
       "cook": "10 minutes",
       "total": "15 minutes",
       "Serving": "8",
-      "category": "Ice Cream",
+      "category": ["Ice Cream", "Latests"],
       "description": "This Grilled Peaches with Honey and Ice Cream recipe is a simple yet decadent dessert! Juicy peaches are lightly grilled then drizzled with honey and served with vanilla ice cream for a treat everyone loves!",
       "ingredient": [
         "8 peaches, halved with pit removed but not peeled",
