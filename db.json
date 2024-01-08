@@ -2550,5 +2550,14 @@
       "title": "Ice Cream and Frozen Treats",
       "description": "Ice Cream Desserts. Find favorite ice cream dessert recipes including family favorites of chocolate ice cream, vanilla ice cream, butter pecan ice cream, and so many more."
     }
+  ],
+
+  "comments": [
+    {
+      "id": "1",
+      "name": "john doe",
+      "email": "sample@sample.com",
+      "comment": ""
+    }
   ]
 }
